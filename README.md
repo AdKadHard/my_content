@@ -15,4 +15,6 @@
 - `data/instagram/reels_stats_YYYY-MM-DD.csv` — статистика всех рилзов на дату выгрузки (Apify `apify/instagram-reel-scraper`)
 - `data/instagram/labels_YYYY-MM-DD.csv` — разметка рилзов >10K: тема, архетип хука, период
 - `data/instagram/analyze.py` — медианы по факторам: `python3 analyze.py labels_YYYY-MM-DD.csv`
-- `data/instagram/transcripts/` — транскрипты и хуки
+- `data/instagram/transcripts_full_YYYY-MM-DD.json` — полные транскрипты (заново не транскрибировать)
+- `data/instagram/transcripts/` — хуки и выдержки
+- `research/` — исследования методов анализа

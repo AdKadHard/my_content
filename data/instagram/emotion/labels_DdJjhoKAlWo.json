@@ -1,0 +1,160 @@
+{
+ "code": "DdJjhoKAlWo",
+ "labeler": "claude",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "curiosity",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "identity"
+  },
+  {
+   "i": 1,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "self_disclosure"
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "promise",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "joy",
+   "function": "setup",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "setup",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "vulnerability"
+  },
+  {
+   "i": 7,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 9,
+   "valence": 2,
+   "arousal": 4,
+   "emotion": "awe",
+   "function": "payoff",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 10,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 11,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "promise",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": "reciprocity"
+  },
+  {
+   "i": 12,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "promise",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "reciprocity"
+  },
+  {
+   "i": 13,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "trust",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "reciprocity"
+  }
+ ]
+}

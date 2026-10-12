@@ -1,0 +1,127 @@
+{
+ "code": "DPWNI05AOnh",
+ "labeler": "claude",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 0,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 1,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "anger",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "social_proof"
+  },
+  {
+   "i": 2,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "setup",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "self_disclosure"
+  },
+  {
+   "i": 3,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "setup",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 5,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 6,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "twist",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "trust",
+   "function": "insight",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 8,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 9,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": "identity"
+  },
+  {
+   "i": 10,
+   "valence": 0,
+   "arousal": 1,
+   "emotion": "neutral",
+   "function": "filler",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  }
+ ]
+}

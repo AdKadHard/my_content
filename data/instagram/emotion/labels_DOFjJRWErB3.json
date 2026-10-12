@@ -1,0 +1,226 @@
+{
+ "code": "DOFjJRWErB3",
+ "labeler": "claude-v3",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 1,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "amusement",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "humor"
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "amusement",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "twist",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 4,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "curiosity",
+   "function": "filler",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "insight",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 8,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 9,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 10,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 11,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 12,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "social_proof"
+  },
+  {
+   "i": 13,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "twist",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 14,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "identity"
+  },
+  {
+   "i": 15,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "payoff",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 16,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "curiosity",
+   "function": "cta",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 17,
+   "valence": 0,
+   "arousal": 1,
+   "emotion": "neutral",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  }
+ ],
+ "story": {
+  "template": "BAB",
+  "freytag": {
+   "exposition": 1,
+   "rising": 3,
+   "climax": 13,
+   "falling": 14,
+   "resolution": 15
+  },
+  "in_medias_res": 0,
+  "conflict": "old_vs_new",
+  "stakes": "none",
+  "transformation": 1,
+  "hero": "third_party",
+  "cliffhanger_end": 1,
+  "circle": [
+   "need",
+   "go",
+   "find",
+   "return"
+  ]
+ }
+}

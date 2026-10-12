@@ -1,0 +1,181 @@
+{
+ "code": "Dd8KZxfAqiT",
+ "labeler": "claude-v3",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": -1,
+   "arousal": 3,
+   "emotion": "anxiety",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "loss_aversion"
+  },
+  {
+   "i": 1,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "authority"
+  },
+  {
+   "i": 2,
+   "valence": -1,
+   "arousal": 3,
+   "emotion": "anxiety",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "authority"
+  },
+  {
+   "i": 3,
+   "valence": -1,
+   "arousal": 3,
+   "emotion": "anxiety",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "curiosity",
+   "function": "setup",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": -1,
+   "arousal": 3,
+   "emotion": "anxiety",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "twist",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 8,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "curiosity",
+   "function": "filler",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 9,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "setup",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 10,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 11,
+   "valence": -1,
+   "arousal": 2,
+   "emotion": "sadness",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 12,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "insight",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 13,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "payoff",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "contrast"
+  }
+ ],
+ "story": {
+  "template": "essay",
+  "freytag": {
+   "exposition": 1,
+   "rising": 4,
+   "climax": 12,
+   "falling": null,
+   "resolution": 13
+  },
+  "in_medias_res": 0,
+  "conflict": "viewer_vs_world",
+  "stakes": "job",
+  "transformation": 0,
+  "hero": "viewer",
+  "cliffhanger_end": 0,
+  "circle": [
+   "need",
+   "find",
+   "change"
+  ]
+ }
+}

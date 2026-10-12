@@ -1,0 +1,194 @@
+{
+ "code": "DZmXMBBA6EK",
+ "labeler": "claude-v3",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 1,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "twist",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "self_disclosure"
+  },
+  {
+   "i": 2,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "twist",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "self_disclosure"
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "payoff",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 4,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "promise",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "step",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "trust",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 9,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "self_disclosure"
+  },
+  {
+   "i": 10,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 11,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 12,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 13,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "filler",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "humor"
+  },
+  {
+   "i": 14,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "cta",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "reciprocity"
+  }
+ ],
+ "story": {
+  "template": "case_story",
+  "freytag": {
+   "exposition": 0,
+   "rising": 2,
+   "climax": 3,
+   "falling": 8,
+   "resolution": 13
+  },
+  "in_medias_res": 0,
+  "conflict": "author_vs_self",
+  "stakes": "time",
+  "transformation": 1,
+  "hero": "author",
+  "cliffhanger_end": 1,
+  "circle": [
+   "need",
+   "go",
+   "find",
+   "return",
+   "change"
+  ]
+ }
+}

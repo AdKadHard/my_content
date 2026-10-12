@@ -1,0 +1,31 @@
+## Хук-механизм × тема (почему эффект хука исчез)
+hook_identity [('manifesto', 7), ('ai_tools', 2), ('devices', 1), ('family', 1)]
+hook_enemy [('devices', 2), ('business_advice', 1)]
+hook_contrast [('ai_tools', 5), ('own_product', 4), ('devices', 2), ('essay', 2), ('business_advice', 1)]
+
+## Вторая фраза после хука (медиана views)
+filler     n= 4 median=91K
+step       n= 8 median=81K
+demo       n= 4 median=81K
+promise    n=12 median=73K
+twist      n= 4 median=60K
+proof      n=11 median=37K
+insight    n= 2 median=35K
+hook       n= 5 median=34K
+setup      n=11 median=31K
+
+## Первые 3 блока: топ-треть vs низ-треть
+ТОП: [('hook>proof>promise', 3), ('hook>promise>demo', 2), ('hook>step>insight', 2), ('hook>demo>proof', 2), ('hook>promise>setup', 2), ('hook>step>demo', 1)]
+НИЗ: [('hook>setup>insight', 3), ('hook>proof>setup', 2), ('hook>proof>promise', 2), ('hook>setup>demo', 1), ('hook>promise>demo', 1), ('hook>promise>filler', 1)]
+
+## Тайминги (медиана, секунды): топ / низ
+t_promise       top=  15.8  bottom=  39.5
+t_proof         top=  25.5  bottom=  13.9
+t_step          top=  14.0  bottom=  20.3
+t_payoff        top=  46.7  bottom=  48.7
+dur             top=  59.5  bottom=  67.0
+blocks_per_10s  top=   1.8  bottom=   1.9
+step_share      top=   0.3  bottom=   0.2
+insight_share   top=   0.1  bottom=   0.2
+
+обещание есть: 30 / 61 ; обещание раньше доказательства: 22

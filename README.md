@@ -9,3 +9,10 @@
 - `reels/scripts/` — сценарии рилзов
 - `telegram/posts/` — посты для канала
 - `data/instagram/` — сырые выгрузки статистики рилзов (Apify)
+
+## Данные Instagram
+
+- `data/instagram/reels_stats_YYYY-MM-DD.csv` — статистика всех рилзов на дату выгрузки (Apify `apify/instagram-reel-scraper`)
+- `data/instagram/labels_YYYY-MM-DD.csv` — разметка рилзов >10K: тема, архетип хука, период
+- `data/instagram/analyze.py` — медианы по факторам: `python3 analyze.py labels_YYYY-MM-DD.csv`
+- `data/instagram/transcripts/` — транскрипты и хуки

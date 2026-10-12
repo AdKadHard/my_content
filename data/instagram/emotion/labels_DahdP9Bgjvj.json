@@ -1,0 +1,224 @@
+{
+ "code": "DahdP9Bgjvj",
+ "labeler": "claude-v3",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 0,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "hook",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 1,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "promise",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "joy",
+   "function": "twist",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "promise",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "reciprocity"
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "filler",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 9,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 10,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 11,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 12,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "twist",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 13,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "proof",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "authority"
+  },
+  {
+   "i": 14,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "payoff",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "reciprocity"
+  },
+  {
+   "i": 15,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 16,
+   "valence": 0,
+   "arousal": 1,
+   "emotion": "neutral",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 17,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  }
+ ],
+ "story": {
+  "template": "tutorial",
+  "freytag": {
+   "exposition": 1,
+   "rising": 5,
+   "climax": 13,
+   "falling": 14,
+   "resolution": null
+  },
+  "in_medias_res": 0,
+  "conflict": "old_vs_new",
+  "stakes": "fomo",
+  "transformation": 1,
+  "hero": "viewer",
+  "cliffhanger_end": 0,
+  "circle": [
+   "need",
+   "find"
+  ]
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "code": "DeKLa-rgGyr",
+ "labeler": "claude-v3",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 0,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 1,
+   "valence": -1,
+   "arousal": 3,
+   "emotion": "anxiety",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "loss_aversion"
+  },
+  {
+   "i": 2,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "authority"
+  },
+  {
+   "i": 3,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "self_disclosure"
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 9,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "twist",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 10,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 11,
+   "valence": 0,
+   "arousal": 1,
+   "emotion": "neutral",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 12,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "insight",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 13,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 14,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "twist",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 15,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 16,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 17,
+   "valence": -1,
+   "arousal": 3,
+   "emotion": "anxiety",
+   "function": "payoff",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "loss_aversion"
+  }
+ ],
+ "story": {
+  "template": "essay",
+  "freytag": {
+   "exposition": 2,
+   "rising": 9,
+   "climax": 16,
+   "falling": null,
+   "resolution": 17
+  },
+  "in_medias_res": 0,
+  "conflict": "old_vs_new",
+  "stakes": "job",
+  "transformation": 0,
+  "hero": "third_party",
+  "cliffhanger_end": 0,
+  "circle": []
+ }
+}

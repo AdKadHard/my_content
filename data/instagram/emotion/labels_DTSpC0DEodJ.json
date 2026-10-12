@@ -1,0 +1,135 @@
+{
+ "code": "DTSpC0DEodJ",
+ "labeler": "claude-v3",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 2,
+   "arousal": 5,
+   "emotion": "awe",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 1,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "curiosity",
+   "function": "promise",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 2,
+   "arousal": 4,
+   "emotion": "awe",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 6,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "awe",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "trust",
+   "function": "twist",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": "identity"
+  },
+  {
+   "i": 9,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "cta",
+   "loop": "close",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  }
+ ],
+ "story": {
+  "template": "review",
+  "freytag": {
+   "exposition": 0,
+   "rising": 2,
+   "climax": 4,
+   "falling": 7,
+   "resolution": 8
+  },
+  "in_medias_res": 0,
+  "conflict": "tool_vs_tool",
+  "stakes": "money",
+  "transformation": 0,
+  "hero": "tool",
+  "cliffhanger_end": 0,
+  "circle": [
+   "find"
+  ]
+ }
+}

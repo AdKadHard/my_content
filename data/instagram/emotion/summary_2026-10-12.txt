@@ -1,0 +1,58 @@
+n=61 роликов
+
+## Признак | rho с views | rho с comments/views | rho с likes/views
+concrete_share       views +0.22   comments -0.12   likes +0.11
+awe_surprise_share   views +0.21   comments -0.04   likes +0.11
+anxiety_anger_share  views -0.21   comments +0.17   likes +0.07
+open_loops           views -0.17   comments -0.12   likes -0.11
+hook_you             views -0.16   comments +0.06   likes -0.08
+enemy                views +0.15   comments +0.15   likes -0.02
+max_arousal          views -0.14   comments +0.21   likes +0.05
+neg_share            views -0.14   comments +0.21   likes +0.05
+mean_arousal         views -0.14   comments +0.23   likes +0.04
+loops_closed         views -0.12   comments +0.03   likes +0.09
+first_payoff         views +0.12   comments +0.27   likes +0.20
+hook_concrete        views +0.10   comments -0.02   likes +0.18
+trust_share          views +0.09   comments +0.08   likes +0.23
+self_disclosure      views +0.08   comments -0.24   likes -0.20
+mean_valence         views +0.07   comments -0.03   likes -0.07
+authority            views -0.07   comments -0.11   likes +0.13
+contrast             views -0.06   comments +0.06   likes +0.11
+curiosity_share      views +0.06   comments +0.02   likes +0.15
+arousal_sd           views +0.05   comments +0.04   likes -0.09
+hook_open_loop       views -0.04   comments -0.16   likes -0.03
+you_share            views +0.04   comments +0.07   likes +0.06
+hook_valence         views +0.03   comments -0.12   likes -0.01
+reciprocity          views +0.02   comments +0.22   likes -0.01
+loss_aversion        views +0.01   comments -0.07   likes +0.09
+hook_arousal         views -0.01   comments +0.16   likes +0.11
+
+## arc
+rise-fall        n= 4  median=   71K
+flat             n=15  median=   59K
+fall             n= 9  median=   59K
+fall-rise        n=11  median=   43K
+rise             n=22  median=   31K
+
+## hook_emotion
+envy             n= 2  median=   62K
+surprise         n= 9  median=   43K
+curiosity        n=38  median=   43K
+sadness          n= 1  median=   38K
+amusement        n= 1  median=   34K
+anxiety          n= 7  median=   29K
+awe              n= 1  median=   22K
+anger            n= 2  median=   17K
+
+## hook_mech
+enemy            n= 4  median=  103K
+identity         n=10  median=   81K
+loss_aversion    n= 4  median=   67K
+authority        n= 4  median=   55K
+-                n=18  median=   42K
+vulnerability    n= 4  median=   37K
+contrast         n=11  median=   31K
+self_disclosure  n= 2  median=   31K
+exclusivity      n= 1  median=   17K
+social_proof     n= 2  median=   16K
+humor            n= 1  median=   14K

@@ -1,0 +1,105 @@
+{
+ "code": "DY4l6zGgsx_",
+ "labeler": "claude-v2",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 1,
+   "valence": 0,
+   "arousal": 1,
+   "emotion": "neutral",
+   "function": "filler",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 2,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 3,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "step",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "joy",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "payoff",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "cta",
+   "loop": "close",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "reciprocity"
+  }
+ ]
+}

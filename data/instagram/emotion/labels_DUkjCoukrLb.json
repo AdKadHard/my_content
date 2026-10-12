@@ -1,0 +1,83 @@
+{
+ "code": "DUkjCoukrLb",
+ "labeler": "claude-v2",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 1,
+   "valence": 0,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "setup",
+   "loop": "close",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "humor"
+  },
+  {
+   "i": 3,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": -1,
+   "arousal": 3,
+   "emotion": "anxiety",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "loss_aversion"
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 1,
+   "emotion": "neutral",
+   "function": "filler",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  }
+ ]
+}

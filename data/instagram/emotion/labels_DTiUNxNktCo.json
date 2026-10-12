@@ -1,0 +1,72 @@
+{
+ "code": "DTiUNxNktCo",
+ "labeler": "claude",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "awe",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 1,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "promise",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "awe",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "scarcity"
+  },
+  {
+   "i": 4,
+   "valence": 2,
+   "arousal": 5,
+   "emotion": "envy",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "social_proof"
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "reciprocity"
+  }
+ ]
+}

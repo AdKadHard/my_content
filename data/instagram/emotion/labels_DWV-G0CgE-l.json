@@ -1,0 +1,94 @@
+{
+ "code": "DWV-G0CgE-l",
+ "labeler": "claude",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "hook",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 1,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "trust",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "authority"
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "identity"
+  },
+  {
+   "i": 4,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": "identity"
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 6,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "payoff",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "reciprocity"
+  }
+ ]
+}

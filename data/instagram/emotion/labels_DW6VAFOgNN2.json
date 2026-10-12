@@ -1,0 +1,127 @@
+{
+ "code": "DW6VAFOgNN2",
+ "labeler": "claude",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "curiosity",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "authority"
+  },
+  {
+   "i": 1,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "trust",
+   "function": "setup",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "authority"
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 3,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 2,
+   "arousal": 4,
+   "emotion": "awe",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 5,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "twist",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "setup",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "demo",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "payoff",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 9,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "trust",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "reciprocity"
+  },
+  {
+   "i": 10,
+   "valence": 0,
+   "arousal": 1,
+   "emotion": "neutral",
+   "function": "filler",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  }
+ ]
+}

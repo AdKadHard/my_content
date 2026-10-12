@@ -1,0 +1,171 @@
+{
+ "code": "DSP3fRikily",
+ "labeler": "claude",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "identity"
+  },
+  {
+   "i": 1,
+   "valence": 0,
+   "arousal": 1,
+   "emotion": "neutral",
+   "function": "filler",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 2,
+   "valence": -1,
+   "arousal": 3,
+   "emotion": "anxiety",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "identity"
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "enemy"
+  },
+  {
+   "i": 4,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 6,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "joy",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 9,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "curiosity",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 10,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "promise",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 11,
+   "valence": 0,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 12,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "trust",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 13,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "step",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 14,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "cta",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  }
+ ]
+}

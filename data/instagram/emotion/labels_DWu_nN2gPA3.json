@@ -1,0 +1,127 @@
+{
+ "code": "DWu_nN2gPA3",
+ "labeler": "claude-v2",
+ "sentences": [
+  {
+   "i": 0,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "hook",
+   "loop": "open",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "enemy"
+  },
+  {
+   "i": 1,
+   "valence": 1,
+   "arousal": 4,
+   "emotion": "surprise",
+   "function": "demo",
+   "loop": "close",
+   "you_focus": 1,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 2,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "awe",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "self_disclosure"
+  },
+  {
+   "i": 3,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "surprise",
+   "function": "demo",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 4,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "neutral",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 5,
+   "valence": 2,
+   "arousal": 4,
+   "emotion": "joy",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 6,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "joy",
+   "function": "payoff",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 7,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "proof",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": ""
+  },
+  {
+   "i": 8,
+   "valence": 0,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 1,
+   "mechanism": "contrast"
+  },
+  {
+   "i": 9,
+   "valence": 1,
+   "arousal": 2,
+   "emotion": "trust",
+   "function": "insight",
+   "loop": "none",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": ""
+  },
+  {
+   "i": 10,
+   "valence": 1,
+   "arousal": 3,
+   "emotion": "amusement",
+   "function": "payoff",
+   "loop": "close",
+   "you_focus": 0,
+   "concrete": 0,
+   "mechanism": "enemy"
+  }
+ ]
+}

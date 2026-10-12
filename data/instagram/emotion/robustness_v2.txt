@@ -1,0 +1,21 @@
+Выводы про вовлечённость с log(views) в контроле (убирает механическую связь доли с охватом)
+enemy             log_comments_per_view  без: b=+0.801 p=0.006   с views: b=+0.738 p=0.007 **
+enemy             log_likes_per_view     без: b=-0.013 p=0.890   с views: b=-0.013 p=0.888
+step_share        log_comments_per_view  без: b=-1.759 p=0.001   с views: b=-1.526 p=0.001 **
+step_share        log_likes_per_view     без: b=-0.021 p=0.899   с views: b=-0.023 p=0.885
+insight_share     log_comments_per_view  без: b=+1.612 p=0.026   с views: b=+1.280 p=0.058 *
+insight_share     log_likes_per_view     без: b=+0.213 p=0.336   с views: b=+0.223 p=0.325
+hook_concrete     log_comments_per_view  без: b=-0.172 p=0.476   с views: b=-0.168 p=0.465
+hook_concrete     log_likes_per_view     без: b=+0.149 p=0.047   с views: b=+0.149 p=0.051 *
+open_loops        log_comments_per_view  без: b=-0.050 p=0.385   с views: b=-0.097 p=0.081 *
+open_loops        log_likes_per_view     без: b=-0.035 p=0.050   с views: b=-0.036 p=0.042 **
+t_promise         log_comments_per_view  без: b=-0.003 p=0.293   с views: b=-0.005 p=0.108
+t_promise         log_likes_per_view     без: b=-0.002 p=0.037   с views: b=-0.002 p=0.044 **
+t_step            log_comments_per_view  без: b=+0.006 p=0.101   с views: b=+0.006 p=0.098 *
+t_step            log_likes_per_view     без: b=+0.004 p=0.002   с views: b=+0.004 p=0.003 **
+t_payoff          log_comments_per_view  без: b=+0.001 p=0.863   с views: b=+0.000 p=0.960
+t_payoff          log_likes_per_view     без: b=+0.004 p=0.011   с views: b=+0.004 p=0.013 **
+blocks_per_10s    log_comments_per_view  без: b=+0.053 p=0.795   с views: b=-0.042 p=0.813
+blocks_per_10s    log_likes_per_view     без: b=-0.150 p=0.010   с views: b=-0.154 p=0.011 **
+neg_viewer_share  log_comments_per_view  без: b=+0.708 p=0.652   с views: b=-0.788 p=0.589
+neg_viewer_share  log_likes_per_view     без: b=+0.801 p=0.080   с views: b=+0.873 p=0.059 *

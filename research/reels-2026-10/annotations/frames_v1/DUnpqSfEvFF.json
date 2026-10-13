@@ -1,0 +1,8 @@
+{"code": "DUnpqSfEvFF", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 1, "text": "HIDOCK P1", "scene": "автор в чёрной рубашке у микрофона тянет в камеру диктофон HiDock P1 (в движении, размыт), синий коврик на столе, узорная тень на стене, жирный заголовок"},
+ "t3": {"face": 1, "screen": 0, "device": 1, "text": "который", "scene": "автор держит девайс в поднятой руке у плеча и говорит в микрофон, пословный субтитр"},
+ "mid": {"face": 0, "screen": 0, "device": 1, "text": "пользуюсь", "scene": "диктофон HiDock P1 крупно сверху лежит на синем паяльном коврике"},
+ "face_frames": 4, "screen_frames": 0, "device_frames": 5, "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "device_review", "setting": "desk",
+ "note": "обзор диктофона HiDock P1: показ в камеру с заголовком, говорящая голова, вставка девайса крупно на коврике"}

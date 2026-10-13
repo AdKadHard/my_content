@@ -3,9 +3,10 @@
 from pathlib import Path as _P
 _R = _P(__file__).resolve().parent.parent
 D, A, RES = _R / "data", _R / "annotations", _R / "results"
-import csv, numpy as np
+import csv, os, numpy as np
 rng = np.random.default_rng(0)
-R = list(csv.DictReader(open(RES / "features_v2.csv")))
+EXCLUDE = set(filter(None, os.environ.get("REELS_EXCLUDE", "").split(",")))  # напр. закреплённые ролики
+R = [r for r in csv.DictReader(open(RES / "features_v2.csv")) if r["code"] not in EXCLUDE]
 CODES = [r["code"] for r in R]
 n = len(R)
 def col(k): return np.array([float(r[k]) for r in R])

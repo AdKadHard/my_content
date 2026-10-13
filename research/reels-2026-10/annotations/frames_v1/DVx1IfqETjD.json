@@ -1,0 +1,8 @@
+{"code": "DVx1IfqETjD", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 0, "device": 1, "text": "ТРИ", "scene": "крупно в руках карманный Cardputer ADV с клавиатурой и строкой ввода на экране, вид сверху, тёмный стол"},
+ "t3": {"face": 1, "screen": 0, "device": 0, "text": "прощаться", "scene": "автор в бейсбольной футболке у микрофона Shure, узорная тень на стене, Cardputer лежит на столе внизу, пословный субтитр"},
+ "mid": {"face": 0, "screen": 1, "device": 0, "text": "IFBench / GPQA Diamond / BFCL V4 / SWE-bench Verified / Terminal-Bench 2 / Qwen3.5 vs GPT-5.2 vs Claude Opus 4.5 vs Gemini 3 Pro / рынок", "scene": "белая карточка с бенчмарками (столбчатые диаграммы сравнения моделей) закрывает лицо автора у микрофона"},
+ "face_frames": 2, "screen_frames": 1, "device_frames": 2, "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "talk_screen", "setting": "desk",
+ "note": "хук — Cardputer в руках с заголовком «три мифа о локальных нейронках», дальше говорящая голова с врезкой таблицы бенчмарков"}

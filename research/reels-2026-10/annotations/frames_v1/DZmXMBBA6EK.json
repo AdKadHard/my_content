@@ -1,0 +1,33 @@
+{
+ "code": "DZmXMBBA6EK",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 0,
+  "screen": 1,
+  "device": 1,
+  "text": "Думал, что",
+  "scene": "вид сверху на стол: автор со спины, планшет с CAD, большой монитор, гаджеты вокруг"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "Как же я",
+  "scene": "автор за столом, смеётся, пятна света на стене, кружка"
+ },
+ "mid": {
+  "face": 1,
+  "screen": 0,
+  "device": 1,
+  "text": "Вот например",
+  "scene": "автор за столом держит Cardputer в руке"
+ },
+ "face_frames": 2,
+ "screen_frames": 3,
+ "device_frames": 4,
+ "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "device_review",
+ "setting": "desk",
+ "note": "Топ-даун стола с планшетом и 3D-моделью, затем лицо за столом с девайсом в руках; экраны видны в кадре, не запись."
+}

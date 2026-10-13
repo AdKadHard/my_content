@@ -1,0 +1,33 @@
+{
+ "code": "DahdP9Bgjvj",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 1,
+  "device": 0,
+  "text": "AGENT · AUDIO ONLY / MODE BLIND / СМОТРИТ КИНО С ЗАКРЫТЫМИ ГЛАЗАМИ — ТОЛЬКО ЗВУК / ИИ-АГЕНТ,",
+  "scene": "видео с лицом внутри UI-рамки, снизу волна и лог звуков"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 1,
+  "device": 0,
+  "text": "ПРОШЛЫЙ / [шум города] [скрип двери] [шаги] «Ты долго?»",
+  "scene": "та же UI-рамка, лог заполняется строками"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 1,
+  "device": 0,
+  "text": "REC · DUAL TRACK / АВТОР / СОБЕСЕДНИК / ТРАНСКРИПЦИЯ · LIVE / ТРАНСКРЕБАЦИЮ.",
+  "scene": "UI-мокап записи двух дорожек и транскрипции"
+ },
+ "face_frames": 4,
+ "screen_frames": 5,
+ "device_frames": 0,
+ "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "talk_screen",
+ "setting": "other",
+ "note": "Лицо встроено в стилизованный UI-интерфейс агента; середина — чистый интерфейсный мокап без лица."
+}

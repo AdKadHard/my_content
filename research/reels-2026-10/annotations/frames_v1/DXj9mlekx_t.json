@@ -1,0 +1,33 @@
+{
+ "code": "DXj9mlekx_t",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "ВОТ",
+  "scene": "селфи снизу, автор у штор, субтитр-плашка"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 1,
+  "text": "эту",
+  "scene": "лицо, в руке тёмный предмет размыто у камеры"
+ },
+ "mid": {
+  "face": 1,
+  "screen": 0,
+  "device": 1,
+  "text": "КНОПКИ",
+  "scene": "автор держит перед камерой клавиатуру с подсветкой"
+ },
+ "face_frames": 5,
+ "screen_frames": 2,
+ "device_frames": 3,
+ "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "device_review",
+ "setting": "other",
+ "note": "Селфи-формат с девайсами в руках (Cardputer, клавиатура) и оверлеем страницы магазина $29.90."
+}

@@ -1,0 +1,8 @@
+{"code": "Dd29So7A_sQ", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 0, "device": 1, "text": "В общем,", "scene": "ручная съёмка снизу телесуфлёра Neewer с планшетом и текстом на стойке в белой комнате со световым окном, субтитр"},
+ "t3": {"face": 0, "screen": 0, "device": 1, "text": "", "scene": "камера в клетке на стойке сбоку, белый потолок, без текста"},
+ "mid": {"face": 0, "screen": 0, "device": 1, "text": "на которой", "scene": "крупно телесуфлёр Neewer спереди, планшет с текстом за стеклом, субтитр"},
+ "face_frames": 0, "screen_frames": 0, "device_frames": 5, "text_frames": 4,
+ "shot_changes_0_3": 1,
+ "format": "device_review", "setting": "studio",
+ "note": "ручной обход сетапа телесуфлёр плюс камера без лица автора, пиксельные субтитры на чёрной плашке"}

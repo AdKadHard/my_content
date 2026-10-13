@@ -1,0 +1,8 @@
+{"code": "DSjwOQIErsL", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 0, "text": "", "scene": "селфи с рук: автор в белой футболке и очках-авиаторах в домашнем кабинете у окна, кадр наклонён, говорит"},
+ "t3": {"face": 1, "screen": 1, "device": 0, "text": "ГОВНО / Master Retention Timeline / свой", "scene": "снятый на телефон экран монитора: аналитика удержания рилса с графиком и превью самого рилса с автором, субтитр"},
+ "mid": {"face": 0, "screen": 1, "device": 0, "text": "The Hook Problem at [0:00-0:02] / Crude language filter / Confusing metaphor / No clear value promise / Action Plan / 0:00-0:02 Hook Drop-off / 0:02-0:05 Pacing Issue / ПОНЯТНАЯ", "scene": "снятый на телефон экран с ИИ-разбором хука рилса и планом действий, субтитр"},
+ "face_frames": 3, "screen_frames": 3, "device_frames": 0, "text_frames": 3,
+ "shot_changes_0_3": 1,
+ "format": "talk_screen", "setting": "desk",
+ "note": "сырое селфи-видео с телефона, затем экран монитора с аналитикой удержания и ИИ-разбором рилса, снятый с рук"}

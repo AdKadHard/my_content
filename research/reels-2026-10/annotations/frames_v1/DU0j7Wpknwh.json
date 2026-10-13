@@ -1,0 +1,8 @@
+{"code": "DU0j7Wpknwh", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 1, "text": "OPENCLAW", "scene": "автор в чёрной рубашке у микрофона жестикулирует, на столе макетная плата с проводами и платами, узорная тень на стене, жирный белый заголовок"},
+ "t3": {"face": 0, "screen": 0, "device": 1, "text": "дедушка", "scene": "крупно в руках карманный гаджет Cardputer ADV с клавиатурой и экраном «Thinking…», сверху вид, стол размыт"},
+ "mid": {"face": 0, "screen": 1, "device": 0, "text": "Catalog / openc / OpenClaw — Personal AI assistant with multi-channel messaging support / Deploy / придумываем", "scene": "запись экрана: каталог приложений хостинга VPS с карточкой OpenClaw и кнопкой Deploy, субтитр внизу"},
+ "face_frames": 2, "screen_frames": 1, "device_frames": 3, "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "device_review", "setting": "desk",
+ "note": "хук у микрофона с заголовком OPENCLAW, потом крупный план Cardputer в руках и скринкаст деплоя на VPS, пословные титры"}

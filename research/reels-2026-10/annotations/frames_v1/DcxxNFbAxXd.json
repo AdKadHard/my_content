@@ -1,0 +1,33 @@
+{
+ "code": "DcxxNFbAxXd",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "CPU несколько мощных ядер, обычно до 24.",
+  "scene": "терминальная моушн-графика: заголовок CPU, пустая рамка, субтитры снизу"
+ },
+ "t3": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "24 мощных ядер / CPU несколько мощных ядер, обычно до 24.",
+  "scene": "сетка ядер C0–C5 и цифра 24"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "NPU PREC / КЛЕТКА ОДНА — РАЗНИЦА В КОЛИЧЕСТВЕ / только матричные операции с низкой точностью,",
+  "scene": "чёрный экран, заголовок NPU, субтитры"
+ },
+ "face_frames": 0,
+ "screen_frames": 0,
+ "device_frames": 0,
+ "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "meme_textcard",
+ "setting": "other",
+ "note": "Полностью анимированный объяснятель в стиле raw-terminal без лица: CPU/GPU/NPU схемы и субтитры."
+}

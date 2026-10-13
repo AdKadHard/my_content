@@ -1,0 +1,8 @@
+{"code": "DcbVAmYgitw", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 1, "device": 1, "text": "user@ternnal: ~$ network-visulizo / На смену", "scene": "человек со спины на диване перед ТВ с графом связей, ноутбук с терминалом и телефон в руке, окно-терминал поверх кадра, субтитр"},
+ "t3": {"face": 0, "screen": 1, "device": 0, "text": "", "scene": "запись экрана: светлый граф заметок knowledge-vault с узлами Проекты, Клиенты, Люди, Заметки, Ресурсы"},
+ "mid": {"face": 0, "screen": 1, "device": 0, "text": "Баксов в", "scene": "запись экрана чата с ИИ (Алиса), длинный ответ про Dify и стоимость внедрения, пиксельный субтитр"},
+ "face_frames": 0, "screen_frames": 4, "device_frames": 1, "text_frames": 4,
+ "shot_changes_0_3": 3,
+ "format": "cinematic_promo", "setting": "other",
+ "note": "монтаж без лица: b-roll с ТВ-графом, мем-клип с человеком в костюме мозга на дискотеке, записи экрана графов и чата, пиксельные субтитры"}

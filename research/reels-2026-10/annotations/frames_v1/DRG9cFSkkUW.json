@@ -1,0 +1,12 @@
+{"code": "DRG9cFSkkUW", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 0, "text": "Вайбкодинг", "scene": "автор в очках за столом смотрит в монитор, ручка у губ, крупный белый заголовок"},
+ "t3": {"face": 0, "screen": 1, "device": 0, "text": "решил", "scene": "экран ноутбука с чат-интерфейсом Cursor, промпт «робот создай мне приложение на миллион»"},
+ "mid": {"face": 1, "screen": 0, "device": 1, "text": "чтобы", "scene": "автор за ноутбуком MacBook фронтально, белая стена"},
+ "face_frames": 3,
+ "screen_frames": 2,
+ "device_frames": 1,
+ "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "talk_screen",
+ "setting": "desk",
+ "note": "хук-заголовок на лице у монитора, затем врезка экрана с промптом в Cursor, далее автор за ноутбуком с красными субтитрами"}

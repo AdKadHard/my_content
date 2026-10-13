@@ -1,0 +1,33 @@
+{
+ "code": "DX6ynBDAS4n",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "Навайбкожено",
+  "scene": "селфи-камера, автор в майке в полутёмной комнате, пиксельный заголовок"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "сервис",
+  "scene": "лицо крупно, жесты, одно слово"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 0,
+  "device": 1,
+  "text": "$ cat recorder.md + абзацы текста про core-девайс",
+  "scene": "raw-terminal карточка с длинным текстом и фото диктофона в руке"
+ },
+ "face_frames": 4,
+ "screen_frames": 0,
+ "device_frames": 1,
+ "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "talking_head",
+ "setting": "other",
+ "note": "Сырая селфи-говорящая голова без микрофона, в середине терминальная текстовая карточка с фото девайса."
+}

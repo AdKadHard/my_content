@@ -1,0 +1,12 @@
+{"code": "DRjhuy1krdy", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 0, "text": "утро", "scene": "крупно лицо автора в очках, трёт лицо руками, светлая стена"},
+ "t3": {"face": 0, "screen": 0, "device": 1, "text": "модульную", "scene": "вид сверху: руки держат экшн-камеру DJI над столом с монитором"},
+ "mid": {"face": 0, "screen": 0, "device": 0, "text": "чисто", "scene": "быт: дверной проём, стиральная машина, стеллаж, бетонный пол"},
+ "face_frames": 3,
+ "screen_frames": 0,
+ "device_frames": 1,
+ "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "lifestyle",
+ "setting": "other",
+ "note": "влог-день солопренера: крупный план лица с пословными красными субтитрами, потом б-ролл с девайсом и бытом"}

@@ -4,10 +4,11 @@ p — перестановочный тест (признак перемешив
 from pathlib import Path as _P
 _R = _P(__file__).resolve().parent.parent
 D, A, RES = _R / "data", _R / "annotations", _R / "results"
-import csv, json, math
+import csv, json, math, os
 import numpy as np
+EXCLUDE = set(filter(None, os.environ.get("REELS_EXCLUDE", "").split(",")))
 rng = np.random.default_rng(0)
-R = list(csv.DictReader(open(RES / "features_v2.csv")))
+R = [r for r in csv.DictReader(open(RES / "features_v2.csv")) if r["code"] not in EXCLUDE]
 arc = {r["code"]: r["arc"] for r in json.load(open(RES / "summary.json"))}
 for r in R: r["arc_rise"] = int(arc.get(r["code"]) == "rise")
 n = len(R)

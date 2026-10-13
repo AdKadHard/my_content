@@ -1,0 +1,33 @@
+{
+ "code": "DYWvUYLgDW2",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "PROCESSOR_STATUS > CONNECTED / 2-ой / ПРОЦЕССОР > STATUS: OK. CORES: 16. THREADS: 32.",
+  "scene": "автор в профиль, рука у подбородка, зелёный HUD с мозгом"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 1,
+  "text": "PROCESSOR_STATUS > CONNECTED / тебе / ПРОЦЕССОР > STATUS: OK...",
+  "scene": "лицо у микрофона, в руке маленький девайс, HUD-рамка"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 0,
+  "device": 1,
+  "text": "CONNECTED / руками / ПРОЦЕССОР > STATUS...",
+  "scene": "вид сверху: руки на клавиатуре Logi, рядом диктофон-пульт"
+ },
+ "face_frames": 4,
+ "screen_frames": 0,
+ "device_frames": 3,
+ "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "device_review",
+ "setting": "studio",
+ "note": "Лицо с зелёным терминальным HUD, в руках и на столе девайсы (пульт-диктофон, клавиатура)."
+}

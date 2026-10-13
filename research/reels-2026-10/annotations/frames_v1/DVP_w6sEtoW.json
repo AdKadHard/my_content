@@ -1,0 +1,8 @@
+{"code": "DVP_w6sEtoW", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 0, "text": "OpenClaw / OpenClaw", "scene": "автор в очках и бейсбольной футболке у микрофона на штанге, домашняя студия с узорной тенью на стене и LED-полосой, жирный заголовок OpenClaw сверху и субтитр"},
+ "t3": {"face": 1, "screen": 0, "device": 0, "text": "задница", "scene": "тот же план, автор жестикулирует, только пословный субтитр"},
+ "mid": {"face": 1, "screen": 0, "device": 1, "text": "токены", "scene": "тот же план чуть шире, на столе клавиатура и маленький гаджет с кнопками, рука автора в кадре"},
+ "face_frames": 5, "screen_frames": 0, "device_frames": 1, "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "talking_head", "setting": "desk",
+ "note": "чистая говорящая голова у микрофона с заголовком OpenClaw и пословными субтитрами, гаджет на столе лишь фоном"}

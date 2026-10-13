@@ -1,0 +1,8 @@
+{"code": "DdgNuXMgbAd", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 0, "device": 0, "text": "ТВОЯ", "scene": "чёрный экран с рамкой-визиром, пиксельное слово с иконкой терминала, тусклые иконки"},
+ "t3": {"face": 1, "screen": 0, "device": 0, "text": "01 / МУЛЬТИКАМ / KINETIC-MULTICAM + SEEDANCE / ИСХОДНИК 1 ДУБЛЬ / ИИ РАКУРС 04", "scene": "автор у микрофона на фоне шторы крупно, слева маленькое окно исходника, пиксельные плашки с номером и названием"},
+ "mid": {"face": 0, "screen": 0, "device": 0, "text": "02 / 3D И MOTION DESIGN / BLENDER + HYPERFRAMES / 1 ЧАС 2 ЧАСА / 1 4 / ИДЕЯ И СТРУКТУРА", "scene": "чёрная моушен-карточка с таймлайном и пиксельными плашками, без автора"},
+ "face_frames": 3, "screen_frames": 0, "device_frames": 0, "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "talk_screen", "setting": "desk",
+ "note": "чередование чёрных пиксельных моушен-карточек и говорящей головы у микрофона с окном исходника и ИИ-ракурсами"}

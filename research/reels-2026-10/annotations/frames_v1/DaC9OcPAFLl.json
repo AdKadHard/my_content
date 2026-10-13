@@ -1,0 +1,33 @@
+{
+ "code": "DaC9OcPAFLl",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "Этот",
+  "scene": "тёмный фон, лицо в маленьком круге-PIP справа, одно слово заголовка"
+ },
+ "t3": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "РАЗ, ТАК ЛИ",
+  "scene": "тёмный размытый b-roll (полосы), мелкий субтитр"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 1,
+  "device": 0,
+  "text": "ЧАТЕ С",
+  "scene": "запись экрана: два окна чата с ИИ рядом"
+ },
+ "face_frames": 3,
+ "screen_frames": 1,
+ "device_frames": 0,
+ "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "talk_screen",
+ "setting": "other",
+ "note": "Лицо в круглом PIP поверх моушн-графики с картой AI-моделей, потом запись экрана чатов."
+}

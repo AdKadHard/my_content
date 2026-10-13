@@ -1,0 +1,117 @@
+# Визуальный слой, 2026-10-13. Размечено 83 роликов, хитов 62, провалов 13
+
+## 1. Формат (по кадрам) → n / медиана просмотров, хиты и все
+  cinematic_promo  все n=13     42K   хиты n=10     51K   провалов 0
+  device_review    все n=19     39K   хиты n=16     64K   провалов 3
+  talking_head     все n=16     31K   хиты n=13     38K   провалов 3
+  talk_screen      все n=21     22K   хиты n=18     23K   провалов 1
+  meme_textcard    все n= 6      7K   хиты n= 2     84K   провалов 4
+  lifestyle        все n= 8      6K   хиты n= 3    103K   провалов 2
+
+## 2. Тема × формат (хиты): n / медиана
+  ai_tools         talking_head     n= 3    105K
+  ai_tools         device_review    n= 3     39K
+  ai_tools         talk_screen      n=10     27K
+  business_advice  cinematic_promo  n= 2     43K
+  business_advice  talking_head     n= 2     13K
+  devices          device_review    n=10     64K
+  essay            talking_head     n= 2     24K
+  manifesto        cinematic_promo  n= 6     81K
+  own_product      lifestyle        n= 2     62K
+  own_product      talking_head     n= 4     38K
+  own_product      talk_screen      n= 5     21K
+
+## 3. Первый кадр (t0) и первые 3 секунды: есть / нет → медиана просмотров (хиты)
+  лицо в t0      есть n=52     39K   нет n=10     33K
+  экран в t0     есть n= 6     27K   нет n=56     40K
+  девайс в t0    есть n=17     59K   нет n=45     39K
+  плашка в t0    есть n=61     39K   нет n= 1    133K
+
+## 4. Провалы против хитов 2026-H2 (медианы)
+  face_frames        провалы 0.0   хиты H2 4.0   все хиты 4.0
+  screen_frames      провалы 0.0   хиты H2 0.0   все хиты 0.0
+  device_frames      провалы 0.0   хиты H2 1.0   все хиты 1.0
+  text_frames        провалы 5.0   хиты H2 5.0   все хиты 5.0
+  shot_changes_0_3   провалы 1.0   хиты H2 0.5   все хиты 1.0
+  форматы провалов: meme_textcard 4, talking_head 3, device_review 3, lifestyle 2, talk_screen 1
+  форматы хитов H2: cinematic_promo 5, talk_screen 4, device_review 4, talking_head 2, meme_textcard 1
+  место съёмки провалов: other 6, desk 4, studio 3
+  место съёмки хитов: desk 25, studio 23, other 13, outdoor 1
+
+## 5. Плашки первого кадра (текст t0) у топ-15 и у провалов
+   1025K device_review   «Лучший»  автор за столом протягивает в камеру маленький Cardputer с к
+    435K cinematic_promo «ЕСЛИ БЫ Я»  нижний ракурс в светлом лофте с высокими окнами, автор в бел
+    329K cinematic_promo «Если»  белая галерея с картиной и перилами, автор входит в кадр спр
+    260K talking_head    «Блин, а»  автор в очках и серой футболке сидит за столом перед клавиат
+    252K talking_head    «Сколько»  автор выглядывает из-за белой стены справа, начало красного 
+    173K talking_head    «если бы»  автор сидит на красном диване у большой белой стены, снизу к
+    164K device_review   «ВОТ»  селфи снизу, автор у штор, субтитр-плашка
+    161K talk_screen     «ai adoption / $ connect --to=corp_ai_core --count=40 / Как я»  моушн-графика: сетка иконок людей, CORP AI CORE в центре
+    156K device_review   «OPENCLAW»  автор в чёрной рубашке у микрофона жестикулирует, на столе м
+    154K meme_textcard   «ИИ ЭКСПЕРТЫ ПОСЛЕДНИЕ 2 НЕДЕЛИ»  ИИ-сгенерированный петух в уютной спальне держит в лапах Mac
+    132K talk_screen     «»  селфи с рук: автор в белой футболке и очках-авиаторах в дома
+    128K device_review   «PROCESSOR_STATUS > CONNECTED / купил / ПРОЦЕССОР > STATUS: O»  автор у микрофона держит Mac mini, зелёный HUD
+    120K talk_screen     «лучшие»  автор в профиль в чёрной рубашке с телефоном в руке на фоне 
+    108K lifestyle       «$15 000 в месяц зарабатывает мой сервис»  автор внизу кадра у белой стены ест огурец, смотрит вверх на
+    105K talking_head    «OpenClaw / OpenClaw»  автор в очках и бейсбольной футболке у микрофона на штанге, 
+      9K device_review   «В общем,»  ручная съёмка снизу телесуфлёра Neewer с планшетом и текстом  [провал]
+      8K lifestyle       «утро»  крупно лицо автора в очках, трёт лицо руками, светлая стена  [провал]
+      7K meme_textcard   «CPU несколько мощных ядер, обычно до 24.»  терминальная моушн-графика: заголовок CPU, пустая рамка, суб  [провал]
+      7K talking_head    «МАМА / закинь в нейронку / 1 / Если»  автор в бежевой футболке сидит с телефоном у окна с серыми ш  [провал]
+      6K meme_textcard   «»  чёрный кадр с угловыми маркерами, розовый прямоугольник-курс  [провал]
+      3K talking_head    «Монтаж с ИИ вышел на новый уровень / инч»  автор в больших очках крупно, домашняя комната со шторами и   [провал]
+      1K meme_textcard   «»  сетка символов на чёрном, розовый курсор, промпт punk@system  [провал]
+      1K meme_textcard   «Экономика токенов / junior / Тратит токены. / 01 / 04 / ЗАПР»  чёрная моушен-инфографика: схема запрос-модель-ответ с 3D-ре  [провал]
+      0K lifestyle       «POV: нашел час на любимое хобби / Но….»  автор в очках и белой футболке паяет плату в «третьей руке»   [провал]
+      0K talking_head    «ЛЮДИ МАССОВО ОТКАЗЫВАЮТСЯ от ИИ»  лицо крупно у микрофона, тёмная студия, большой заголовок сл  [провал]
+      0K talk_screen     «ТВОЯ»  чёрный экран с рамкой-визиром, пиксельное слово с иконкой те  [провал]
+      0K device_review   «SEG 01 // 12 / ИИ + 3D-ПЕЧАТЬ ДЛЯ КРЕАТОРА»  POV сверху: рука держит камеру Sony с объективом на белом ст  [провал]
+      0K device_review   «Сетап для»  ручная съёмка в тёмном коридоре квартиры: телефон на штативе  [провал]
+
+## 6. Хиты с контролем факторов
+n=60. Контроль: тема, период, log(длительность), код в комменты. p — перестановочный (5000).
+
+### log_views
+face_frames              b=-0.016  p=0.725
+screen_frames            b=-0.016  p=0.761
+device_frames            b=-0.001  p=0.979
+text_frames              b=-0.100  p=0.504
+shot_changes_0_3         b=+0.020  p=0.800
+t0_face                  b=+0.140  p=0.407
+t0_screen                b=-0.172  p=0.405
+t0_device                b=+0.021  p=0.888
+t0_text                  b=-0.790  p=0.101
+fmt=talking_head         b=+0.136  p=0.368
+fmt=talk_screen          b=-0.254  p=0.054 *
+fmt=device_review        b=+0.105  p=0.445
+fmt=cinematic_promo      b=+0.173  p=0.287
+
+### log_comments_per_view
+face_frames              b=+0.232  p=0.002 **
+screen_frames            b=+0.049  p=0.564
+device_frames            b=-0.190  p=0.001 **
+text_frames              b=+0.243  p=0.329
+shot_changes_0_3         b=-0.158  p=0.218
+t0_face                  b=+0.448  p=0.121
+t0_screen                b=+0.379  p=0.262
+t0_device                b=-0.794  p=0.001 **
+t0_text                  b=+1.678  p=0.062 *
+fmt=talking_head         b=-0.021  p=0.934
+fmt=talk_screen          b=+0.229  p=0.309
+fmt=device_review        b=-0.446  p=0.053 *
+fmt=cinematic_promo      b=+0.206  p=0.461
+
+### log_likes_per_view
+face_frames              b=+0.023  p=0.137
+screen_frames            b=-0.020  p=0.251
+device_frames            b=-0.005  p=0.697
+text_frames              b=+0.040  p=0.421
+shot_changes_0_3         b=-0.061  p=0.022 **
+t0_face                  b=+0.057  p=0.325
+t0_screen                b=-0.053  p=0.443
+t0_device                b=+0.012  p=0.804
+t0_text                  b=+0.074  p=0.624
+fmt=talking_head         b=+0.065  p=0.209
+fmt=talk_screen          b=+0.009  p=0.840
+fmt=device_review        b=+0.025  p=0.614
+fmt=cinematic_promo      b=-0.194  p=0.001 **

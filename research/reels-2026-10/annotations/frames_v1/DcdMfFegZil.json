@@ -1,0 +1,8 @@
+{"code": "DcdMfFegZil", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 0, "text": "ЕСЛИ БЫ Я", "scene": "нижний ракурс в светлом лофте с высокими окнами, автор в белой футболке наклоняется к камере, розовый пиксельный текст"},
+ "t3": {"face": 1, "screen": 0, "device": 0, "text": "ДЛЯ РОСТА / ЗАРПЛАТЫ", "scene": "автор уходит из кадра в профиль, тот же лофт, пиксельный текст с размытым словом"},
+ "mid": {"face": 0, "screen": 0, "device": 0, "text": "МЕТРИКИ / ЧТО МЕРИТЬ У ОБВЯЗКИ / ОПЕРАЦИОННЫЕ: ADOPTION RATE, COVERAGE, ЭКОНОМИЯ ВРЕМЕНИ, ACCEPTANCE RATE, ESCALATION RATE, COST PER OPERATION / СТРАТЕГИЧЕСКИЕ: AUTONOMY RATIO, ABLATION DELTA, AI VELOCITY / дадут тебе", "scene": "чёрная текстовая карточка-список метрик в моноширинном шрифте, без автора"},
+ "face_frames": 4, "screen_frames": 0, "device_frames": 0, "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "cinematic_promo", "setting": "studio",
+ "note": "кино-кадр в лофте с нижнего ракурса и пиксельным розовым заголовком, в середине чёрная карточка со списком метрик"}

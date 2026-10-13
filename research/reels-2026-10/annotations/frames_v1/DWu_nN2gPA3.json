@@ -1,0 +1,33 @@
+{
+ "code": "DWu_nN2gPA3",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "для",
+  "scene": "селфи в движении, смазанный кадр, белая комната"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "опенкло",
+  "scene": "лицо крупно, селфи в светлой комнате"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 0,
+  "device": 1,
+  "text": "С",
+  "scene": "игровой ноутбук на белом столе, рука на нём"
+ },
+ "face_frames": 4,
+ "screen_frames": 0,
+ "device_frames": 1,
+ "text_frames": 4,
+ "shot_changes_0_3": 2,
+ "format": "lifestyle",
+ "setting": "other",
+ "note": "Ходячий селфи-влог по квартире, в середине показывает купленный ноутбук."
+}

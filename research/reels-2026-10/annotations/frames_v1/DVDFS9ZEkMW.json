@@ -1,0 +1,8 @@
+{"code": "DVDFS9ZEkMW", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 0, "device": 1, "text": "ИИ ЭКСПЕРТЫ ПОСЛЕДНИЕ 2 НЕДЕЛИ", "scene": "ИИ-сгенерированный петух в уютной спальне держит в лапах Mac mini, белая текстовая плашка сверху"},
+ "t3": {"face": 0, "screen": 0, "device": 1, "text": "ОПЕНКЛОООООООООО", "scene": "тот же петух с Mac mini, плашка с криком «ОПЕНКЛОООО» внизу"},
+ "mid": {"face": 0, "screen": 0, "device": 1, "text": "", "scene": "петух с Mac mini смотрит в камеру с недоумением, без плашек, иконка ИИ-генерации в углу"},
+ "face_frames": 0, "screen_frames": 0, "device_frames": 5, "text_frames": 4,
+ "shot_changes_0_3": 0,
+ "format": "meme_textcard", "setting": "other",
+ "note": "ИИ-видеомем: петух с Mac mini кричит «опенклоооо», автора нет, текстовые плашки как в сторис"}

@@ -1,0 +1,33 @@
+{
+ "code": "DZzkh5gAwlE",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "Напечатано на Bambulab A1",
+  "scene": "рука открывает дверцу шкафа, вид сверху, босые ноги на полу"
+ },
+ "t3": {
+  "face": 0,
+  "screen": 0,
+  "device": 1,
+  "text": "Напечатано на Bambulab A1",
+  "scene": "выдвинутый ящик с 3D-печатным органайзером: дрон, мультиметр, кабели"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 0,
+  "device": 1,
+  "text": "Напечатано на Bambulab A1",
+  "scene": "руки держат DJI-девайс над органайзером"
+ },
+ "face_frames": 0,
+ "screen_frames": 0,
+ "device_frames": 3,
+ "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "device_review",
+ "setting": "other",
+ "note": "POV без лица: открывает шкаф и показывает 3D-печатный органайзер с гаджетами, одна статичная плашка."
+}

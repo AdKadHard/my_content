@@ -1,0 +1,8 @@
+{"code": "DbvqWkWgHsX", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 0, "device": 1, "text": "В 1981 году", "scene": "крупно Cardputer ADV на сером столе, рука тянется к нему, субтитр"},
+ "t3": {"face": 1, "screen": 0, "device": 0, "text": "КОТОРАЯ", "scene": "автор в очках и реглане говорит в микрофон Shure в тёмном кабинете, жестикулирует, субтитр"},
+ "mid": {"face": 1, "screen": 0, "device": 0, "text": "ЗВУКОЗАПИСЫВАЮЩЕЙ", "scene": "тот же план автора у микрофона, субтитр"},
+ "face_frames": 2, "screen_frames": 0, "device_frames": 3, "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "device_review", "setting": "desk",
+ "note": "открывается макро-кадром девайса на столе, затем переход на говорящего автора у микрофона в тёмном кабинете"}

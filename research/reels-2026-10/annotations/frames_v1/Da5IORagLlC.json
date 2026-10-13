@@ -1,0 +1,33 @@
+{
+ "code": "Da5IORagLlC",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 0,
+  "screen": 0,
+  "device": 1,
+  "text": "10 ВЕЩЕЙ НА",
+  "scene": "руки держат Cardputer крупно, вид сверху"
+ },
+ "t3": {
+  "face": 0,
+  "screen": 0,
+  "device": 1,
+  "text": "НЕ НАЙДЕШЬ",
+  "scene": "рука держит плату, снизу красный драйвер-модуль с проводами"
+ },
+ "mid": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "ЧТО ВСЕ ЭТО",
+  "scene": "автор в кресле у Shure, сзади монитор"
+ },
+ "face_frames": 1,
+ "screen_frames": 0,
+ "device_frames": 4,
+ "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "device_review",
+ "setting": "studio",
+ "note": "Хук — железки крупно в руках (Cardputer, платы), лицо появляется только в середине."
+}

@@ -1,0 +1,12 @@
+{"code": "DOFjJRWErB3", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 0, "text": "мир", "scene": "автор за столом в кресле, сверху и снизу врезки кадров Netflix про Формулу-1"},
+ "t3": {"face": 1, "screen": 0, "device": 0, "text": "Netflix", "scene": "автор за столом говорит, смотрит в сторону, без врезок, оранжевый субтитр"},
+ "mid": {"face": 1, "screen": 0, "device": 0, "text": "своих", "scene": "автор за столом жестикулирует руками у головы, оранжевый субтитр"},
+ "face_frames": 5,
+ "screen_frames": 0,
+ "device_frames": 0,
+ "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "talking_head",
+ "setting": "desk",
+ "note": "talking head за столом одним планом с оранжевыми пословными субтитрами, в первые секунды — видео-врезки из сериала Netflix сверху и снизу"}

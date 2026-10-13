@@ -1,0 +1,8 @@
+{"code": "DXoKPdwAJ2p", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 0, "device": 0, "text": "NET GRAPH > CONNECTED / если / РЕФЕРЕНДУМ > STATUS: OK. NODES: 256. LINKS: 312.", "scene": "крупное лицо автора в очках и белой футболке с вебкамеры в домашнем кабинете, зелёный HUD-оверлей в стиле терминала, пословный субтитр"},
+ "t3": {"face": 0, "screen": 1, "device": 0, "text": "CONFIDENTIAL v1.2 · 12 pages / в", "scene": "чёрный экран с анимированной иллюстрацией монитора с документом CONFIDENTIAL, иконки ? ! ⚠ и грустный человечек, субтитр"},
+ "mid": {"face": 1, "screen": 0, "device": 0, "text": "NET GRAPH > CONNECTED / РЕФЕРЕНДУМ > STATUS: OK. NODES: 256. LINKS: 312.", "scene": "тот же вебкам-план, автор говорит, HUD-оверлей по углам"},
+ "face_frames": 3, "screen_frames": 2, "device_frames": 0, "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "talk_screen", "setting": "desk",
+ "note": "вебкам-монолог с зелёным терминальным HUD и пиксельными субтитрами, на 2-й секунде врезка моушн-иллюстрации про конфиденциальный документ"}

@@ -1,0 +1,33 @@
+{
+ "code": "DW6VAFOgNN2",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "NET GRAPH > CONNECTED / сначала / РЕФЕРЕНДУМ > STATUS: OK. NODES: 256. LINKS: 312.",
+  "scene": "автор у микрофона, зелёный HUD с мозгом и чипом"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "NET GRAPH > CONNECTED / продвигает / РЕФЕРЕНДУМ > STATUS...",
+  "scene": "то же, HUD-иконки меняются"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 1,
+  "device": 1,
+  "text": "NET GRAPH > CONNECTED / результатами / STATUS...",
+  "scene": "Cardputer на клавиатуре MacBook, экран с сайтом на фоне"
+ },
+ "face_frames": 4,
+ "screen_frames": 1,
+ "device_frames": 1,
+ "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "device_review",
+ "setting": "studio",
+ "note": "Говорящая голова с терминальным HUD, в середине врезка девайса на ноутбуке."
+}

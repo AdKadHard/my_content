@@ -1,0 +1,33 @@
+{
+ "code": "DbsyaDtAbFn",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "ЛЮДИ МАССОВО ОТКАЗЫВАЮТСЯ от ИИ",
+  "scene": "лицо крупно у микрофона, тёмная студия, большой заголовок слева"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "УНИЧТОЖАЮТ",
+  "scene": "лицо крупно, жест рукой, одно слово субтитра"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "БАКСОВ Я",
+  "scene": "гравюра: луддиты с факелами и молотами у фабрики"
+ },
+ "face_frames": 4,
+ "screen_frames": 0,
+ "device_frames": 0,
+ "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "talking_head",
+ "setting": "studio",
+ "note": "Говорящая голова с большим текстовым хуком, в середине иллюстрация-гравюра."
+}

@@ -1,0 +1,33 @@
+{
+ "code": "DXWkRQzAGLf",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 1,
+  "text": "PROCESSOR_STATUS > CONNECTED / купил / ПРОЦЕССОР > STATUS: OK. CORES: 16. THREADS: 32.",
+  "scene": "автор у микрофона держит Mac mini, зелёный HUD"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 1,
+  "text": "CONNECTED / ПРОЦЕССОР > STATUS...",
+  "scene": "автор поднимает Mac mini над головой"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 1,
+  "device": 0,
+  "text": "Яндекс",
+  "scene": "запись экрана: YouTube-видео про PicoClaw на Raspberry Pi"
+ },
+ "face_frames": 4,
+ "screen_frames": 1,
+ "device_frames": 4,
+ "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "device_review",
+ "setting": "studio",
+ "note": "Mac mini в руках на протяжении всего хука с HUD-рамкой, в середине запись экрана YouTube."
+}

@@ -1,0 +1,8 @@
+{"code": "DeQx9ZQAHT_", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 1, "device": 0, "text": "ЭТО CLAUDE CODE с модами / Что дальше? / Default / Выбрать репозиторий... / Опишите задачу или задайте вопрос / Авто / Opus 5.5 / Средний", "scene": "чёрный фон, крупный заголовок, светлый макет интерфейса Claude Code без автора"},
+ "t3": {"face": 1, "screen": 1, "device": 0, "text": "CLAUDE CODE + МОДЫ / ЭТО CLAUDE CODE с модами / поправь шапку лендинга / Поправил шапку и пересобрал проект. / Read index.html / Edit index.html / Bash npm run build / That turn took 134s / МОД / Tool calls ok ok ok fail / АДЕЛЬ КАДЫРОВ @HARSH.TIMES", "scene": "макет интерфейса Claude Code с розовыми подсветками модов, внизу справа маленький PiP автора на фоне шторы"},
+ "mid": {"face": 1, "screen": 0, "device": 0, "text": "01 · ЗАЧЕМ / 4 / ЗАЧЕМ · 4 ИЗ 4 / СВОЯ ПАНЕЛЬ и своя команда к не / ПРОМПТ / С / АДЕЛЬ КАДЫРОВ @HARSH.TIMES", "scene": "чёрная карточка с цифрой 4 и заголовком, поле промпта, PiP автора внизу справа"},
+ "face_frames": 4, "screen_frames": 4, "device_frames": 0, "text_frames": 5,
+ "shot_changes_0_3": 0,
+ "format": "talk_screen", "setting": "other",
+ "note": "реконструированный UI Claude Code с подсветкой модов на чёрном и маленький PiP-аватар автора, карточки по разделам"}

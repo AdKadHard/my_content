@@ -1,0 +1,33 @@
+{
+ "code": "DY4l6zGgsx_",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "ai adoption / $ connect --to=corp_ai_core --count=40 / Как я создаю вот / workforce: n = 40",
+  "scene": "моушн-графика: сетка иконок людей, CORP AI CORE в центре"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "040 033% / за две минуты в",
+  "scene": "автор за столом, жестикулирует, сверху HUD-плашка прогресса"
+ },
+ "mid": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "интересно в этот",
+  "scene": "автор за столом, светлая студия, субтитр"
+ },
+ "face_frames": 3,
+ "screen_frames": 0,
+ "device_frames": 0,
+ "text_frames": 5,
+ "shot_changes_0_3": 2,
+ "format": "talk_screen",
+ "setting": "studio",
+ "note": "Хук из двух моушн-графических карточек, затем говорящая голова с HUD-вставками (не запись экрана)."
+}

@@ -1,0 +1,33 @@
+{
+ "code": "DcBbQl2gA7C",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "Эйнштейн и",
+  "scene": "автор у кафельной стены метро, крупно, пиксельный розовый заголовок"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "в метро,",
+  "scene": "автор в профиль, на платформе появляется Эйнштейн с людьми"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 0,
+  "device": 1,
+  "text": "и",
+  "scene": "Cardputer лежит на клавиатуре MacBook, экран на фоне размыт"
+ },
+ "face_frames": 4,
+ "screen_frames": 0,
+ "device_frames": 1,
+ "text_frames": 5,
+ "shot_changes_0_3": 2,
+ "format": "cinematic_promo",
+ "setting": "outdoor",
+ "note": "AI-сгенерированная кинематографичная сцена в метро с Эйнштейном, пиксельные титры; в середине врезка с девайсом на ноуте."
+}

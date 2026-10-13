@@ -1,0 +1,33 @@
+{
+ "code": "Dcvco2XgmmT",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "",
+  "scene": "сетка символов на чёрном, розовый курсор, промпт punk@system"
+ },
+ "t3": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "ЧТО ЭТО / DEEPSEEK / CN / DeepSeek — аналог ChatGPT",
+  "scene": "терминальная карточка с заголовком DEEPSEEK"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 0,
+  "device": 0,
+  "text": "ЧТО ЭТО / CHATGPT vs DEEPSEEK: вопрос, текст, задача, код, счёт / VPN / БЕЗ VPN / то же, только доступно",
+  "scene": "сравнительная таблица двух колонок"
+ },
+ "face_frames": 0,
+ "screen_frames": 0,
+ "device_frames": 0,
+ "text_frames": 4,
+ "shot_changes_0_3": 2,
+ "format": "meme_textcard",
+ "setting": "other",
+ "note": "Анимированный терминальный объяснятель про DeepSeek без лица, текстовые карточки и таблицы."
+}

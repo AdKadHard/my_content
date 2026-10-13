@@ -1,0 +1,8 @@
+{"code": "Dd5_7F5AhLo", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 0, "device": 1, "text": "SEG 01 // 12 / ИИ + 3D-ПЕЧАТЬ ДЛЯ КРЕАТОРА", "scene": "POV сверху: рука держит камеру Sony с объективом на белом столе, рядом Cardputer, розовая пиксельная плашка"},
+ "t3": {"face": 0, "screen": 1, "device": 1, "text": "SEG 01 // 12 / ИИ + 3D-ПЕЧАТЬ ДЛЯ КРЕАТОРА / Good afternoon, Adel", "scene": "POV: руки на клавиатуре перед монитором Xiaomi с окном ИИ-чата и промптом про адаптер для объектива"},
+ "mid": {"face": 0, "screen": 0, "device": 1, "text": "", "scene": "крупно стол 3D-принтера с напечатанным контуром детали, размытый палец"},
+ "face_frames": 0, "screen_frames": 1, "device_frames": 5, "text_frames": 4,
+ "shot_changes_0_3": 1,
+ "format": "device_review", "setting": "desk",
+ "note": "POV без лица: камера и фильтр в руках, затем монитор с промптом и 3D-принтер, сегментная плашка-заголовок"}

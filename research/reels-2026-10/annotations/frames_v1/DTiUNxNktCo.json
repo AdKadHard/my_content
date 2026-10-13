@@ -1,0 +1,8 @@
+{"code": "DTiUNxNktCo", "labeler": "claude-frames-v1",
+ "t0": {"face": 1, "screen": 1, "device": 0, "text": "парень", "scene": "чужое видео: парень в кепке за ноутбуком с кодом на террасе с видом на Сиднейскую оперу и мост, сверху круглая врезка с лицом автора у микрофона, субтитр"},
+ "t3": {"face": 1, "screen": 0, "device": 0, "text": "рилс", "scene": "тот же парень в кепке крупно в профиль у стены, круглая врезка автора сверху, субтитр"},
+ "mid": {"face": 1, "screen": 1, "device": 0, "text": "0:23 / 0:50 / Master Retention Timeline / AI Assistant / Ask me anything about your video analysis!", "scene": "запись экрана сервиса аналитики удержания с графиком и плеером, в котором рилс автора, круглая врезка автора сверху"},
+ "face_frames": 5, "screen_frames": 3, "device_frames": 0, "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "talk_screen", "setting": "other",
+ "note": "реакция-дуэт: чужой рилс про парня с ноутбуком, автор комментирует из круглой врезки, в середине скринкаст аналитики удержания"}

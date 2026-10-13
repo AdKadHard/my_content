@@ -1,0 +1,33 @@
+{
+ "code": "DYePv6VgALE",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "Гоу создадим",
+  "scene": "автор в кресле у Shure, светлая комната, пиксельные слова появляются по одному"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "",
+  "scene": "то же лицо, субтитры исчезли"
+ },
+ "mid": {
+  "face": 0,
+  "screen": 1,
+  "device": 0,
+  "text": "характеристики",
+  "scene": "запись экрана: майндмэп с ветками сегментов аудитории"
+ },
+ "face_frames": 4,
+ "screen_frames": 1,
+ "device_frames": 0,
+ "text_frames": 4,
+ "shot_changes_0_3": 0,
+ "format": "talk_screen",
+ "setting": "studio",
+ "note": "Говорящая голова в домашней студии, в середине запись экрана майндмэпа."
+}

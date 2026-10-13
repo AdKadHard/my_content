@@ -1,0 +1,33 @@
+{
+ "code": "Dc-27MTgu47",
+ "labeler": "claude-frames-v1",
+ "t0": {
+  "face": 1,
+  "screen": 1,
+  "device": 0,
+  "text": "Я ВЫЯСНИЛ,",
+  "scene": "крупное лицо у микрофона, сверху оверлей списка маркетплейсов (OZON, wildberries, lamoda)"
+ },
+ "t3": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "интерактивную",
+  "scene": "лицо крупно, тёмная студия, одно слово субтитров"
+ },
+ "mid": {
+  "face": 1,
+  "screen": 0,
+  "device": 0,
+  "text": "заключается",
+  "scene": "лицо крупно у Shure, полуприкрытые глаза, субтитр"
+ },
+ "face_frames": 5,
+ "screen_frames": 2,
+ "device_frames": 0,
+ "text_frames": 5,
+ "shot_changes_0_3": 1,
+ "format": "talk_screen",
+ "setting": "studio",
+ "note": "Говорящая голова в тёмной студии; в хуке сверху UI-плашка с логотипами маркетплейсов, дальше чистое лицо с пословными субтитрами."
+}

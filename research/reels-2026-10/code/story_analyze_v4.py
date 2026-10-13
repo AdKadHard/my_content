@@ -3,7 +3,8 @@ vs метрики, с контролем темы/периода/длитель�
 from pathlib import Path as _P
 _R = _P(__file__).resolve().parent.parent
 D, A, RES = _R / "data", _R / "annotations", _R / "results"
-import csv, json, glob, statistics as st
+import csv, json, glob, os, statistics as st
+EXCLUDE = set(filter(None, os.environ.get("REELS_EXCLUDE", "").split(",")))
 from collections import Counter, defaultdict
 import numpy as np
 rng = np.random.default_rng(3)
@@ -12,7 +13,9 @@ S = {r["shortcode"]: r for r in csv.DictReader(open(D / "reels_stats_2026-10-12.
 F = {r["code"]: r for r in csv.DictReader(open(RES / "features_v2.csv"))}
 rows = []
 for f in sorted(glob.glob(str(A / "labels_*.json"))):
-    d = json.load(open(f)); c = d["code"]; s = d["sentences"]; n = len(s); st_ = d["story"]
+    d = json.load(open(f)); c = d["code"]
+    if c in EXCLUDE: continue
+    s = d["sentences"]; n = len(s); st_ = d["story"]
     v4 = json.load(open(A / "story_v4" / f"{c}.json"))["story"]
     sents = json.load(open(A / f"sentences_{c}.json"))["sentences"]
     words = [len(x["text"].split()) for x in sents]; tw = sum(words); dur = float(L[c]["dur"])

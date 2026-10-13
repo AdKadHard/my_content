@@ -1,0 +1,12 @@
+{"code": "C0otljgx8K1", "labeler": "claude-frames-v1",
+ "t0": {"face": 0, "screen": 0, "device": 0, "text": "", "scene": "маленький ребёнок без майки улыбается в камеру, рядом взрослый в чёрной футболке, домашний интерьер"},
+ "t3": {"face": 0, "screen": 0, "device": 0, "text": "", "scene": "ребёнок крупно, отвернулся, на фоне коляска"},
+ "mid": {"face": 0, "screen": 0, "device": 0, "text": "", "scene": "ребёнок крупно смотрит в сторону, взрослый сзади"},
+ "face_frames": 0,
+ "screen_frames": 0,
+ "device_frames": 0,
+ "text_frames": 0,
+ "shot_changes_0_3": 0,
+ "format": "lifestyle",
+ "setting": "other",
+ "note": "семейное домашнее видео с ребёнком, один непрерывный план, без текста и без лица автора"}

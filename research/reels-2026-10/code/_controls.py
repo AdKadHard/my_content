@@ -12,8 +12,11 @@ n = len(R)
 def col(k): return np.array([float(r[k]) for r in R])
 def dummies(k, levels): return np.column_stack([[1.0 if r[k] == l else 0.0 for r in R] for l in levels])
 TOPICS = ["manifesto", "devices", "essay", "own_product", "business_advice"]
-C = np.column_stack([np.ones(n), dummies("topic", TOPICS), dummies("period", ["2026H1", "2026H2"]),
-                     np.log(col("dur")), col("cta_code")])
+import json as _json
+EFFORT = {_json.loads(l)["code"]: {"fast": 1, "mid": 2, "long": 3}[_json.loads(l)["effort"]] for l in open(D / "effort_adel.jsonl")}
+_cols = [np.ones(n), dummies("topic", TOPICS), dummies("period", ["2026H1", "2026H2"]), np.log(col("dur")), col("cta_code")]
+if os.environ.get("REELS_EFFORT_CONTROL"): _cols.append(np.array([EFFORT.get(c, 1) for c in CODES], float))  # трудоёмкость как контроль
+C = np.column_stack(_cols)
 Y = {"log_views": col("log_views"), "log_comments_per_view": np.log10(col("comment_rate") + 0.01),
      "log_likes_per_view": np.log10(col("like_rate"))}
 def coef(X, y): return np.linalg.lstsq(X, y, rcond=None)[0]

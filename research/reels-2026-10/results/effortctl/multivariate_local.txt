@@ -1,0 +1,98 @@
+# Локальные признаки с контролем факторов, 2026-10-13
+t_promise_real: пропусков 33, заполнены медианой
+t_step_real: пропусков 9, заполнены медианой
+t_payoff_real: пропусков 20, заполнены медианой
+first_cut_s: пропусков 1, заполнены медианой
+
+## Проверка с контролем (тема, период, длительность, код в комменты)
+n=60. Контроль: тема, период, log(длительность), код в комменты. p — перестановочный (5000).
+
+### log_views
+speech_start_s           b=+0.000  p=1.000
+hook_end_s               b=+0.054  p=0.035 **
+t_promise_real           b=-0.005  p=0.214
+t_step_real              b=+0.001  p=0.826
+t_payoff_real            b=+0.001  p=0.870
+rms_mean                 b=-4.328  p=0.423
+rms_first3               b=-2.580  p=0.261
+f0_range_mean            b=+0.012  p=0.020 **
+pauses_per_min           b=+0.025  p=0.363
+wpm_hook                 b=+0.003  p=0.094 *
+wpm_mean                 b=+0.004  p=0.229
+n_cuts                   b=-0.015  p=0.034 **
+cuts_per_10s             b=-0.131  p=0.031 **
+first_cut_s              b=+0.007  p=0.405
+cuts_first_5s            b=-0.126  p=0.127
+ocr_t0                   b=-0.110  p=0.623
+ocr_any                  b=+0.006  p=1.000
+novelty_all              b=+0.037  p=0.956
+max_sim_recent5          b=-0.056  p=0.941
+sim_to_top10             b=+1.997  p=0.586
+hook_body_sim            b=+3.589  p=0.157
+voice_anger              b=+16.582  p=0.380
+voice_disgust            b=-5.096  p=0.576
+voice_enthusiasm         b=+22.969  p=0.273
+voice_fear               b=-18.062  p=0.301
+voice_happiness          b=+5.616  p=0.677
+voice_neutral            b=-35.820  p=0.098 *
+voice_sadness            b=+17.206  p=0.283
+
+### log_comments_per_view
+speech_start_s           b=+0.000  p=1.000
+hook_end_s               b=+0.009  p=0.841
+t_promise_real           b=+0.004  p=0.517
+t_step_real              b=+0.010  p=0.296
+t_payoff_real            b=+0.003  p=0.622
+rms_mean                 b=+2.850  p=0.755
+rms_first3               b=+5.471  p=0.159
+f0_range_mean            b=-0.009  p=0.275
+pauses_per_min           b=-0.063  p=0.169
+wpm_hook                 b=-0.003  p=0.346
+wpm_mean                 b=-0.017  p=0.002 **
+n_cuts                   b=+0.023  p=0.050 **
+cuts_per_10s             b=+0.183  p=0.066 *
+first_cut_s              b=-0.033  p=0.017 **
+cuts_first_5s            b=+0.289  p=0.040 **
+ocr_t0                   b=+0.448  p=0.240
+ocr_any                  b=+0.656  p=0.296
+novelty_all              b=-0.278  p=0.698
+max_sim_recent5          b=+0.138  p=0.857
+sim_to_top10             b=+9.929  p=0.103
+hook_body_sim            b=+0.873  p=0.842
+voice_anger              b=+26.426  p=0.398
+voice_disgust            b=-21.866  p=0.155
+voice_enthusiasm         b=+37.521  p=0.284
+voice_fear               b=-8.098  p=0.783
+voice_happiness          b=-18.404  p=0.415
+voice_neutral            b=+110.378  p=0.003 **
+voice_sadness            b=-2.447  p=0.923
+
+### log_likes_per_view
+speech_start_s           b=+0.000  p=1.000
+hook_end_s               b=-0.000  p=0.972
+t_promise_real           b=+0.001  p=0.566
+t_step_real              b=+0.002  p=0.194
+t_payoff_real            b=+0.001  p=0.281
+rms_mean                 b=+1.120  p=0.517
+rms_first3               b=+0.034  p=0.962
+f0_range_mean            b=+0.001  p=0.574
+pauses_per_min           b=-0.009  p=0.358
+wpm_hook                 b=+0.001  p=0.245
+wpm_mean                 b=+0.002  p=0.165
+n_cuts                   b=-0.001  p=0.782
+cuts_per_10s             b=+0.003  p=0.881
+first_cut_s              b=+0.000  p=1.000
+cuts_first_5s            b=-0.024  p=0.403
+ocr_t0                   b=+0.249  p=0.004 **
+ocr_any                  b=+0.692  p=0.015 **
+novelty_all              b=+0.167  p=0.258
+max_sim_recent5          b=-0.156  p=0.296
+sim_to_top10             b=+0.891  p=0.488
+hook_body_sim            b=+1.334  p=0.114
+voice_anger              b=+5.976  p=0.312
+voice_disgust            b=-1.369  p=0.645
+voice_enthusiasm         b=+6.699  p=0.359
+voice_fear               b=-14.240  p=0.016 **
+voice_happiness          b=+4.448  p=0.335
+voice_neutral            b=-0.504  p=0.945
+voice_sadness            b=+2.650  p=0.623

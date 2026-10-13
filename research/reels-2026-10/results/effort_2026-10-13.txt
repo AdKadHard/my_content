@@ -1,0 +1,94 @@
+# Трудоёмкость, 2026-10-13. 73 роликов 2025-01..2026-10-01 с ответом Аделя, из них хитов 60. Часы условные: быстро 0.5, средне 2, долго 5
+
+## 1. По трудоёмкости: n, доля хитов, медиана просмотров, просмотров на час, лайков и комментов на час, сумма просмотров
+  fast  n=43  хитов 31 (72%)  медиана    21K  медиана хитов    38K  просм/час    43K  лайков/час   610  комм/час   46  сумма 2.1M за 22 ч
+  mid   n=26  хитов 25 (96%)  медиана    42K  медиана хитов    42K  просм/час    21K  лайков/час   374  комм/час   32  сумма 2.2M за 52 ч
+  long  n= 4  хитов  4 (100%)  медиана    73K  медиана хитов    73K  просм/час    15K  лайков/час   324  комм/час   91  сумма 1.2M за 20 ч
+  всего 5.5M просмотров за ~94 ч; 58K на час в среднем
+
+## 2. Быстрые хиты (быстро и ≥50K): что у них общего
+    260K talking_head    ai_tools        tutorial   viewer  «Блин, а что вы парсерами сиды не пользуетесь? Это же очень л»
+    252K talking_head    own_product     review     viewer  «Сколько я заработал на сервисе, который создал без кода за о»
+    164K device_review   devices         review     own     «Вот эта маленькая штуковина заменила мне вот эту замечательн»
+    154K meme_textcard   meme            ?          ?       «Open klo!»
+    132K talk_screen     ai_tools        review     own     «Видео для тех, у кого не залетает рилс. Смотрите, я загрузил»
+    120K talk_screen     ai_tools        review     third   «Лучшие практики по внедрению ИИ в бизнес на одном сайте. Чув»
+    108K lifestyle       own_product     case_story viewer  «15 тысяч баксов ежемесячно зарабатывает сервис, который я со»
+    105K talking_head    ai_tools        tutorial   viewer  «OpenClo сводит мир с ума, если у тебя горит задница от FOMO,»
+    103K cinematic_promo manifesto       tutorial   viewer  «Если бы я был новичком и решил пилить соло-проекты в 2025 го»
+     82K device_review   business_advice tutorial   viewer  «МакКинзи сменили лютый восторг от нейросетей на скепсис. А э»
+     70K device_review   essay           essay      third   «В 1981 году была описана схема, которая объясняет, что проис»
+     58K device_review   devices         review     own     «Умные девайсы для бизнес-путешествий, которые умещаются в ла»
+
+## 3. Долгие и средние, которые не окупились (средне/долго и <40K)
+  mid     39K device_review   ai_tools        tutorial   Мой сетап захвата реальности HiDock P1
+  mid     36K device_review   devices         case_story Raspberry Pi Zero девайс
+  mid     33K cinematic_promo ai_tools        tutorial   Напиши БУБУБУ в комменты
+  mid     31K talk_screen     ai_tools        tutorial   ТГК Адель Кадыров ИИ-допинг
+  mid     29K talk_screen     ai_tools        tutorial   Признавайся кидал в чатгпт корп данные?
+  mid     24K talk_screen     ai_tools        tutorial   Первая локальная нейронка 1403
+  mid     21K device_review   devices         case_story Пиши 3012 — гайд
+  mid     21K talk_screen     own_product     case_story Поделись с другом
+  long    17K device_review   devices         tutorial   Gridfinity промпт
+  mid     16K talk_screen     ai_tools        tutorial   Пиши 3103 — гайд
+  mid     15K talk_screen     family          case_story Пиши 3108 — материалы как создать такую 
+  mid     14K talk_screen     ai_tools        review     Это первая часть. пиши 1709
+  long    13K talking_head    business_advice tutorial   Пиши первый — материалы
+  mid      7K talking_head    провал          —          Пиши 0809 — пошаговый гайд
+
+## 4. Формат по кадрам: по строкам — категория, по колонкам — трудоёмкость: n / медиана просмотров
+                            fast           mid          long      все
+  cinematic_promo       2/   57K      7/   43K             —    9/  43K
+  device_review        10/   33K      6/   54K      3/  129K   19/  39K
+  talking_head         12/   35K      2/   91K      1/   14K   15/  31K
+  talk_screen           9/   21K     10/   27K             —   19/  22K
+  lifestyle             4/   12K      1/  103K             —    5/  16K
+  meme_textcard         6/    7K             —             —    6/   7K
+
+## 5. Тема (хиты; провалы = «провал»): по строкам — категория, по колонкам — трудоёмкость: n / медиана просмотров
+                            fast           mid          long      все
+  manifesto             2/   57K      5/  174K             —    7/ 103K
+  meme                  2/   84K             —             —    2/  84K
+  devices               3/   59K      5/   69K      3/  129K   11/  69K
+  news                  1/   39K             —             —    1/  39K
+  own_product           8/   34K      3/   59K             —   11/  38K
+  ai_tools              8/   75K      9/   31K             —   17/  37K
+  essay                 3/   31K             —             —    3/  31K
+  business_advice       3/   12K      2/   43K      1/   14K    6/  28K
+  lifestyle             1/   18K             —             —    1/  18K
+  family                       —      1/   16K             —    1/  16K
+  провал               12/    2K      1/    8K             —   13/   2K
+
+## 6. Форма v4 (только хиты): по строкам — категория, по колонкам — трудоёмкость: n / медиана просмотров
+                            fast           mid          long      все
+  tutorial              7/   82K     17/   59K      2/   15K   26/  51K
+  review               10/   49K      2/   28K      1/ 1025K   13/  42K
+  news_react            2/   38K             —             —    2/  38K
+  case_story            7/   30K      6/   29K      1/  129K   14/  34K
+  essay                 3/   31K             —             —    3/  31K
+  —                    14/    3K      1/    8K             —   15/   3K
+
+## 7. Период: по строкам — категория, по колонкам — трудоёмкость: n / медиана просмотров
+                            fast           mid          long      все
+  2026H1               14/   42K      8/   49K      2/  577K   24/  51K
+  2025                 12/   24K      9/   43K      1/   14K   22/  34K
+  2026H2               15/    6K      9/   34K      1/   17K   25/  15K
+  ранее                 2/    5K             —             —    2/   5K
+
+## 8. Хиты с контролем темы, периода, длительности, кода
+n=60. Контроль: тема, период, log(длительность), код в комменты. p — перестановочный (5000).
+
+### log_views
+трудоёмкость (1–3)       b=+0.085  p=0.393
+долго                    b=+0.146  p=0.585
+быстро                   b=-0.089  p=0.470
+
+### log_comments_per_view
+трудоёмкость (1–3)       b=+0.113  p=0.505
+долго                    b=+0.622  p=0.124
+быстро                   b=-0.008  p=0.968
+
+### log_likes_per_view
+трудоёмкость (1–3)       b=+0.054  p=0.121
+долго                    b=+0.105  p=0.191
+быстро                   b=-0.053  p=0.215

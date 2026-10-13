@@ -328,5 +328,5 @@ question                 4/  15K         1/  21K         2/ 140K               �
   case_story  none             viewer  n= 7     21K  комм/1K   2.2
 
 ## 9. Последовательности функций: самые частые тройки в топ-30 и низ-30 (на ролик)
-топ-30: step>insight>step (5); proof>insight>proof (4); insight>cta>filler (4); proof>insight>twist (4); insight>step>insight (4); step>payoff>cta (3); hook>proof>insight (3); insight>filler>insight (3)
-низ-30: proof>insight>proof (5); step>insight>step (5); insight>step>insight (5); proof>twist>proof (5); proof>payoff>cta (4); filler>step>filler (4); insight>proof>insight (4); filler>step>insight (4)
+топ-30: step>insight>step (5); insight>cta>filler (4); insight>step>insight (4); proof>insight>twist (4); proof>insight>proof (4); filler>step>filler (3); twist>step>insight (3); hook>proof>insight (3)
+низ-30: step>insight>step (5); insight>step>insight (5); proof>twist>proof (5); proof>insight>proof (5); proof>payoff>cta (4); insight>proof>insight (4); filler>step>insight (4); filler>step>filler (4)

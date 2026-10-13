@@ -1,0 +1,30 @@
+{
+"dur": 60.879864,
+"n_cuts": 10,
+"cuts_per_10s": 1.6425792278379596,
+"first_cut_s": 1.458333,
+"cuts_first_5s": 2,
+"ocr": {
+"t0": [
+"NET GRAPH",
+"CONNECTED",
+"ЕЕяН",
+"РЕФЕРЕНДУМ"
+],
+"t1": [
+"NET GRAPH",
+"CONNECTED",
+"ЧУЕСТЕИТЕЛЬНЫНИ",
+"РЕФЕРЕНДУМ"
+],
+"t2": [],
+"t3": [
+"CONFIDENTIAL"
+],
+"mid": [
+"NET GRAPH",
+"CONNECTED",
+"РЕФЕРЕНДУМ"
+]
+}
+}

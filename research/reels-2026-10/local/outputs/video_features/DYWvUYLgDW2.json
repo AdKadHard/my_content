@@ -1,0 +1,50 @@
+{
+"dur": 110.756327,
+"n_cuts": 50,
+"cuts_per_10s": 4.51441478372608,
+"first_cut_s": 1.875,
+"cuts_first_5s": 2,
+"ocr": {
+"t0": [
+"PROCESSOR_STATUS",
+"CONNECTED",
+"ПРОЦЕССUР",
+"STATUS: DK",
+"CORES: 16",
+"THREADS: 32"
+],
+"t1": [
+"PROCESSOR_STATUS",
+"CONNECTED",
+"ПРОЦЕССUР",
+"STNTUS: DK",
+"CORES: 16",
+"THREADS: 32"
+],
+"t2": [
+"PRUCESSOR_STATUS",
+"CONNECTED",
+"CONNE",
+"ПРОЦЕССUР",
+"16. THREADS: 32"
+],
+"t3": [
+"PROCESSOR_STATUS",
+"CONNECTED",
+"CONNEC TI",
+"ПРОЦЕССОР",
+"STATUS: ОK. CURES:",
+"16",
+"THREADS: 32"
+],
+"mid": [
+"PROCESSOR_STATUS",
+"CUNNECTED",
+"CONNEC TED",
+"Рлкани",
+"ПРОЦЕССUР",
+"CDRES: 16. IHREADS:",
+"32"
+]
+}
+}

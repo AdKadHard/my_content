@@ -3,10 +3,11 @@
 import json, subprocess
 from scenedetect import detect, ContentDetector
 import easyocr
+import sys
 from _common import *
 VF = ensure(OUT / "video_features"); FR = ensure(OUT / "frames")
 reader = easyocr.Reader(["ru", "en"], gpu=False)
-for code in codes_hits():
+for code in (codes_all() if "--all" in sys.argv else codes_hits()):
     out = VF / f"{code}.json"; mp4 = OUT / "video" / f"{code}.mp4"
     if out.exists() or not mp4.exists(): continue
     scenes = detect(str(mp4), ContentDetector(threshold=27.0))

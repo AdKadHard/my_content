@@ -1,9 +1,10 @@
 """Просодия: громкость (RMS), высота (pyin), паузы, темп — по секундам и по фразам (нужен шаг 02).
 Выход: local/prosody/<code>.json"""
 import json, numpy as np, librosa
+import sys
 from _common import *
 P = ensure(OUT / "prosody")
-for code in codes_hits():
+for code in (codes_all() if "--all" in sys.argv else codes_hits()):
     out = P / f"{code}.json"
     if out.exists(): continue
     wav = OUT / "audio" / f"{code}.wav"

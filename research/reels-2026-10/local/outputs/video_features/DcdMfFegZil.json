@@ -1,0 +1,43 @@
+{
+"dur": 80.872245,
+"n_cuts": 22,
+"cuts_per_10s": 2.7203399633582572,
+"first_cut_s": 4.708333,
+"cuts_first_5s": 1,
+"ocr": {
+"t0": [
+"БЫ Я"
+],
+"t1": [
+"ЕСЛИ",
+"БЫ Я",
+"БЫЛ"
+],
+"t2": [
+"ЕСЛИ",
+"БЫ Я",
+"БЫЛ",
+"И",
+"РЕШИЯ",
+"ИЗЧЧНТЬ",
+"ИИ"
+],
+"t3": [
+"ДЛЯ",
+"PUTH"
+],
+"mid": [
+"МЕТРИКИ",
+"ADOPTION RATE",
+"COVERAGE",
+"ЭКОНОМИЯ ВРЕПЕНИ",
+"ESCALATION RATE",
+"COST PER OPERATION",
+"AUTONOMY RATIO",
+"ABLATIDN DELTA",
+"дздчт",
+"AI",
+"VELOCITY"
+]
+}
+}

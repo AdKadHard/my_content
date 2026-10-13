@@ -2,6 +2,7 @@
 Выход: local/timestamps/<code>.json = {"words":[{w,start,end}], "sentences":[{i,start,end}]}"""
 import json, re, difflib
 from faster_whisper import WhisperModel
+import soundfile as sf  # wav читаем сами: PyAV новых версий несовместим с faster-whisper
 from _common import *
 T = ensure(OUT / "timestamps")
 model = WhisperModel("large-v3", compute_type="auto")  # на CPU без GPU замени на "small"
@@ -11,7 +12,7 @@ for code in codes_hits():
     if out.exists(): continue
     wav = OUT / "audio" / f"{code}.wav"
     if not wav.exists(): print("no audio", code); continue
-    segs, _ = model.transcribe(str(wav), language="ru", word_timestamps=True, vad_filter=True)
+    segs, _ = model.transcribe(sf.read(str(wav), dtype="float32")[0], language="ru", word_timestamps=True, vad_filter=True)
     words = [{"w": w.word.strip(), "start": w.start, "end": w.end} for s in segs for w in (s.words or [])]
     # выравнивание фраз Apify-транскрипта на слова whisper
     sents = sentences(code); ww = [norm(x["w"]) for x in words]

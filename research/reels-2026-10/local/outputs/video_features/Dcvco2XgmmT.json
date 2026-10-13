@@ -1,0 +1,58 @@
+{
+"dur": 26.630431,
+"n_cuts": 0,
+"cuts_per_10s": 0.0,
+"first_cut_s": null,
+"cuts_first_5s": 0,
+"ocr": {
+"t0": [
+"punk@systemi"
+],
+"t1": [
+"punklsystem:",
+"НЕЙРUСЕТИ",
+"БЕЗ"
+],
+"t2": [
+"punklsystem:",
+"ЧТО",
+"эт0",
+"DEEPSEEК",
+"DeepSeek",
+"аналог",
+"ChatGPT"
+],
+"t3": [
+"punklsystem:",
+"ЧТО",
+"DEEPSEEК",
+"CNI",
+"DeepSeek",
+"аналог",
+"ChatGPT"
+],
+"mid": [
+"punklsystem:~$",
+"ЧТО",
+"CHATGPT",
+"DEEPSEEK",
+"ВОПРОС",
+"ВОПРОС",
+"ТЕКСТ",
+"ТЕКСТ",
+"ЗАДАЧА",
+"ЗАДАЧА",
+"КОД",
+"КОД",
+"СЧЁТ",
+"СЧЁТ",
+"VPN",
+"БЕЗ",
+"VPN",
+"то",
+"же ,",
+"только",
+"доступно"
+]
+}
+}

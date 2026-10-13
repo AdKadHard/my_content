@@ -1,0 +1,470 @@
+[
+{
+"i": 0,
+"cedr": {
+"no_emotion": 0.9584118723869324,
+"sadness": 0.019778678193688393,
+"anger": 0.01688040792942047,
+"surprise": 0.004783871117979288,
+"fear": 0.003199981991201639,
+"joy": 0.002646799897775054
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "sadness",
+"score": 0.3186957836151123
+},
+{
+"label": "disappointment",
+"score": 0.2868942618370056
+},
+{
+"label": "neutral",
+"score": 0.18894542753696442
+}
+]
+},
+{
+"i": 1,
+"cedr": {
+"no_emotion": 0.9891209006309509,
+"surprise": 0.005963142495602369,
+"fear": 0.005824204534292221,
+"anger": 0.005396724212914705,
+"sadness": 0.004825247917324305,
+"joy": 0.0041997842490673065
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.645582377910614
+},
+{
+"label": "optimism",
+"score": 0.19717258214950562
+},
+{
+"label": "approval",
+"score": 0.07596375048160553
+}
+]
+},
+{
+"i": 2,
+"cedr": {
+"no_emotion": 0.947462797164917,
+"surprise": 0.03659025579690933,
+"joy": 0.0078016724437475204,
+"anger": 0.006170901004225016,
+"sadness": 0.004906651098281145,
+"fear": 0.0027882286813110113
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "curiosity",
+"score": 0.48920729756355286
+},
+{
+"label": "confusion",
+"score": 0.2673828601837158
+},
+{
+"label": "neutral",
+"score": 0.12965579330921173
+}
+]
+},
+{
+"i": 3,
+"cedr": {
+"no_emotion": 0.9915769100189209,
+"sadness": 0.006171132437884808,
+"surprise": 0.005955264903604984,
+"fear": 0.005298546049743891,
+"anger": 0.005254988558590412,
+"joy": 0.004324203822761774
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.7036811709403992
+},
+{
+"label": "approval",
+"score": 0.16548141837120056
+},
+{
+"label": "disapproval",
+"score": 0.02156011015176773
+}
+]
+},
+{
+"i": 4,
+"cedr": {
+"no_emotion": 0.9887233972549438,
+"surprise": 0.007565063424408436,
+"fear": 0.0053452737629413605,
+"sadness": 0.005287893582135439,
+"anger": 0.004668221343308687,
+"joy": 0.0037880262825638056
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "admiration",
+"score": 0.8586753606796265
+},
+{
+"label": "neutral",
+"score": 0.10514184832572937
+},
+{
+"label": "approval",
+"score": 0.05321183800697327
+}
+]
+},
+{
+"i": 5,
+"cedr": {
+"no_emotion": 0.9883280396461487,
+"surprise": 0.00720189418643713,
+"sadness": 0.006429007276892662,
+"anger": 0.005816522520035505,
+"fear": 0.004349268972873688,
+"joy": 0.00351102277636528
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.583319902420044
+},
+{
+"label": "realization",
+"score": 0.06425239145755768
+},
+{
+"label": "excitement",
+"score": 0.05101068317890167
+}
+]
+},
+{
+"i": 6,
+"cedr": {
+"no_emotion": 0.9903276562690735,
+"surprise": 0.007438357453793287,
+"sadness": 0.00518148485571146,
+"fear": 0.005057972855865955,
+"anger": 0.005050124600529671,
+"joy": 0.004407415632158518
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "approval",
+"score": 0.3849020302295685
+},
+{
+"label": "confusion",
+"score": 0.34086403250694275
+},
+{
+"label": "curiosity",
+"score": 0.20021910965442657
+}
+]
+},
+{
+"i": 7,
+"cedr": {
+"no_emotion": 0.990740180015564,
+"fear": 0.0058255549520254135,
+"surprise": 0.005394209176301956,
+"sadness": 0.005030237138271332,
+"anger": 0.004851939622312784,
+"joy": 0.004558235872536898
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.8505101799964905
+},
+{
+"label": "approval",
+"score": 0.12175910174846649
+},
+{
+"label": "realization",
+"score": 0.019303644075989723
+}
+]
+},
+{
+"i": 8,
+"cedr": {
+"no_emotion": 0.9909175038337708,
+"fear": 0.005367907229810953,
+"anger": 0.0052964105270802975,
+"sadness": 0.005024121142923832,
+"joy": 0.005016354378312826,
+"surprise": 0.00473420275375247
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "approval",
+"score": 0.5382415652275085
+},
+{
+"label": "neutral",
+"score": 0.2601464092731476
+},
+{
+"label": "admiration",
+"score": 0.17709170281887054
+}
+]
+},
+{
+"i": 9,
+"cedr": {
+"no_emotion": 0.9899182915687561,
+"anger": 0.005354453809559345,
+"fear": 0.005252175498753786,
+"surprise": 0.00519424956291914,
+"sadness": 0.004746314603835344,
+"joy": 0.004071009811013937
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.8355774283409119
+},
+{
+"label": "annoyance",
+"score": 0.06554166972637177
+},
+{
+"label": "disapproval",
+"score": 0.04150381311774254
+}
+]
+},
+{
+"i": 10,
+"cedr": {
+"no_emotion": 0.9911596179008484,
+"fear": 0.005487225949764252,
+"sadness": 0.005471176002174616,
+"surprise": 0.005251909140497446,
+"anger": 0.004965029191225767,
+"joy": 0.004789066035300493
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.9500629305839539
+},
+{
+"label": "approval",
+"score": 0.01727541908621788
+},
+{
+"label": "annoyance",
+"score": 0.010385055094957352
+}
+]
+},
+{
+"i": 11,
+"cedr": {
+"no_emotion": 0.9911104440689087,
+"surprise": 0.005767523311078548,
+"fear": 0.0055008758790791035,
+"anger": 0.005442389287054539,
+"sadness": 0.005362655036151409,
+"joy": 0.004782855976372957
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.7684630751609802
+},
+{
+"label": "curiosity",
+"score": 0.3098897933959961
+},
+{
+"label": "confusion",
+"score": 0.10875537991523743
+}
+]
+},
+{
+"i": 12,
+"cedr": {
+"no_emotion": 0.9911518692970276,
+"sadness": 0.005442998372018337,
+"surprise": 0.005415104329586029,
+"fear": 0.00508417934179306,
+"anger": 0.005038360133767128,
+"joy": 0.004655790515244007
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "disapproval",
+"score": 0.4363929033279419
+},
+{
+"label": "neutral",
+"score": 0.35751551389694214
+},
+{
+"label": "approval",
+"score": 0.07294899970293045
+}
+]
+},
+{
+"i": 13,
+"cedr": {
+"no_emotion": 0.9906907081604004,
+"fear": 0.00528707355260849,
+"surprise": 0.005215474870055914,
+"joy": 0.005033440422266722,
+"anger": 0.004910529125481844,
+"sadness": 0.0048831552267074585
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.37883898615837097
+},
+{
+"label": "admiration",
+"score": 0.30024975538253784
+},
+{
+"label": "approval",
+"score": 0.2144942432641983
+}
+]
+},
+{
+"i": 14,
+"cedr": {
+"no_emotion": 0.99137282371521,
+"surprise": 0.006437184754759073,
+"sadness": 0.00591636449098587,
+"anger": 0.0054131196811795235,
+"fear": 0.0048647066578269005,
+"joy": 0.004442829173058271
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "disapproval",
+"score": 0.5499476194381714
+},
+{
+"label": "neutral",
+"score": 0.23819926381111145
+},
+{
+"label": "confusion",
+"score": 0.17090807855129242
+}
+]
+},
+{
+"i": 15,
+"cedr": {
+"no_emotion": 0.991642951965332,
+"fear": 0.005655530374497175,
+"sadness": 0.005468618590384722,
+"surprise": 0.005287181586027145,
+"anger": 0.005229945294559002,
+"joy": 0.0049463664181530476
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.9097561836242676
+},
+{
+"label": "approval",
+"score": 0.0576179102063179
+},
+{
+"label": "annoyance",
+"score": 0.012828144244849682
+}
+]
+},
+{
+"i": 16,
+"cedr": {
+"no_emotion": 0.991041898727417,
+"sadness": 0.005871831439435482,
+"fear": 0.005356417037546635,
+"anger": 0.005254268646240234,
+"surprise": 0.005048675462603569,
+"joy": 0.0042196414433419704
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.83262038230896
+},
+{
+"label": "approval",
+"score": 0.060864582657814026
+},
+{
+"label": "disapproval",
+"score": 0.033081427216529846
+}
+]
+},
+{
+"i": 17,
+"cedr": {
+"no_emotion": 0.9914166331291199,
+"sadness": 0.00610534381121397,
+"anger": 0.0054958174005150795,
+"fear": 0.005254323594272137,
+"surprise": 0.0051240865141153336,
+"joy": 0.0045152995735406876
+},
+"cedr_top": "neutral",
+"goemotions_top3": [
+{
+"label": "neutral",
+"score": 0.3483828008174896
+},
+{
+"label": "disapproval",
+"score": 0.13755910098552704
+},
+{
+"label": "annoyance",
+"score": 0.08856353163719177
+}
+]
+}
+]

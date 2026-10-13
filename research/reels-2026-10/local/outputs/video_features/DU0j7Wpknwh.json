@@ -1,0 +1,43 @@
+{
+"dur": 36.871882,
+"n_cuts": 11,
+"cuts_per_10s": 2.9833031034325828,
+"first_cut_s": 1.666667,
+"cuts_first_5s": 1,
+"ocr": {
+"t0": [
+"OPENCLAW"
+],
+"t1": [
+"OPENCLAW",
+"на сервер"
+],
+"t2": [
+"OPENCLAW",
+"на сервер",
+"за мИнуту",
+"Aov"
+],
+"t3": [
+"дедушка",
+"Aov"
+],
+"mid": [
+"Suutch",
+"Catalog",
+"VPS",
+"openc",
+"Fopular (1)",
+"Analytics (0)",
+"Automatian (0)",
+"BloE",
+"Medla (0)",
+"Observability (0)",
+"Other (0)",
+"Utilitias",
+"OpenClaw",
+"Personal",
+"придумываем"
+]
+}
+}

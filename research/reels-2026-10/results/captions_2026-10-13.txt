@@ -1,0 +1,94 @@
+# Подписи, 2026-10-13, n=60
+
+## code      n=23  медиана просмотров 41K  комменты/просмотр 1.02%  лайки/просмотр 1.77%
+   DcdMfFegZil 435K  Подпишись и пиши 2108 в комменты
+   DOeGGqnkjnn 329K  Пиши 2025 — первый проект
+   DPlIdjdEhTm 173K  Пиши 2025 — дайджест
+   DU0j7Wpknwh 156K  150226 — гайд
+   DSjwOQIErsL 132K  Пиши копайлот в комменты
+   DXWkRQzAGLf 128K  Пиши 1604 — пошаговый гайд
+   DRPI3J1kpWV 103K  Пиши 2025 — дайджест (перепост)
+   DThyv1nknBf 82K  Пиши 1216 — материалы
+   DSrb1GAEjDz 68K  Пиши 2612 — гайд
+   DdoXwrIAFaU 58K  Будет вторая часть. 2309 в комменты
+   DcbVAmYgitw 42K  1908 в комменты - конспект
+   DSP3fRikily 41K  Пиши 2025 — дайджест продукт без кода
+   DW6VAFOgNN2 36K  Пиши 0604 — статья и гайд
+   DcBbQl2gA7C 33K  Напиши БУБУБУ в комменты
+   DVx1IfqETjD 24K  Первая локальная нейронка 1403
+   DTiUNxNktCo 21K  Копайлот в комменты @devstinov
+   DS438p3kr6p 21K  Пиши 3012 — гайд
+   DeXDPstAfsG 17K  101026 Продаб бананы и людей
+   DSmOrTHkjHB 16K  Пиши Слив — органика
+   DWln-yCAAxZ 16K  Пиши 3103 — гайд
+   DdJjhoKAlWo 15K  Пиши 3108 — материалы как создать такую же игру
+   DddU1KRA6BE 14K  Это первая часть. пиши 1709
+   DSE03dykqp6 13K  Пиши первый — материалы
+## question  n=10  медиана просмотров 46K  комменты/просмотр 0.13%  лайки/просмотр 1.89%
+   DTSpC0DEodJ 1025K  Как тебе девайс?
+   DVP_w6sEtoW 105K  Openclaw это 💩 или 👑?
+   DRG9cFSkkUW 103K  Как тебе результат?
+   DbvqWkWgHsX 70K  Че думаешь?
+   DeKLa-rgGyr 63K  Кликбейт?
+   DXoKPdwAJ2p 29K  Признавайся кидал в чатгпт корп данные?
+   DUnpqSfEvFF 28K  Hidock p1 - хлам или нет?
+   DQvyNNpErJq 16K  Создать свой проект реально?
+   DPWNI05AOnh 15K  А ты бы как поступил?
+   DXg8qnTALYC 11K  А где пятый?!
+## share     n= 3  медиана просмотров 43K  комменты/просмотр 0.09%  лайки/просмотр 2.10%
+   DYePv6VgALE 59K  Подписаться не забудь
+   DPyl1BZEhiM 43K  Перешли другу
+   DPN6gQLEj4M 21K  Поделись с другом
+## tools     n= 6  медиана просмотров 37K  комменты/просмотр 0.10%  лайки/просмотр 1.83%
+   DOMEpk8EmMU 108K  cursor + supabase + directual
+   DZmXMBBA6EK 104K  Принтер Bambu A1 + промпт 3D-модели
+   DYWvUYLgDW2 39K  Мой сетап захвата реальности HiDock P1
+   DSm6il-Euwf 36K  Raspberry Pi Zero девайс
+   DQJRZcJEmUY 30K  Бот OPNG + промпт Reddit
+   Da5IORagLlC 17K  Gridfinity промпт
+## other     n=18  медиана просмотров 39K  комменты/просмотр 0.09%  лайки/просмотр 1.64%
+   DZM4h-hggka 260K  Гайз траблы с отправкой. Все найдете в тгк
+   DOvEaGNEnA1 252K  Сколько я заработал на сервисе
+   DXj9mlekx_t 164K  Название в конце
+   DY4l6zGgsx_ 161K  Ссылка на YouTube
+   DWV-G0CgE-l 120K  Отправка сломалась. Ищите в ТГК
+   DWu_nN2gPA3 102K  Сетап распишу в отдельном видео
+   DVK3ePuEgJo 58K  Без них никуда
+   DUZ1Zq6EkAC 43K  Openclaw монтаж тест
+   DUkjCoukrLb 39K  ИИ предлагает 50 баксов в час RentAHuman
+   DX6ynBDAS4n 38K  Ой этот вайбкодинг бесполезный!
+   DXT3-y-APrr 37K  Такие дела
+   DahdP9Bgjvj 31K  ТГК Адель Кадыров ИИ-допинг
+   DOFjJRWErB3 31K  F1 и нетфликс
+   DaC9OcPAFLl 21K  Graphify экономия токенов
+   DZzkh5gAwlE 18K  Принтер поможет навести порядок
+   Dd8KZxfAqiT 12K  Извини что заставил задуматься
+   DQtAlijkiy4 11K  Content Market Fit
+   DR4iAiEkqTb 10K  Лендинг
+
+## Проверка с контролем (внимание: cta_code в контроле уже включает код из подписи)
+n=60. Контроль: тема, период, log(длительность), код в комменты. p — перестановочный (5000).
+
+### log_views
+cap_code                 b=-0.010  p=0.937
+cap_question             b=+0.072  p=0.662
+cap_share                b=+0.011  p=0.972
+cap_tools                b=-0.058  p=0.775
+cap_other                b=-0.021  p=0.877
+cap_len                  b=+0.001  p=0.879
+
+### log_comments_per_view
+cap_code                 b=-0.025  p=0.909
+cap_question             b=+0.087  p=0.759
+cap_share                b=-0.167  p=0.709
+cap_tools                b=+0.139  p=0.684
+cap_other                b=-0.061  p=0.785
+cap_len                  b=+0.010  p=0.398
+
+### log_likes_per_view
+cap_code                 b=-0.095  p=0.022 **
+cap_question             b=-0.008  p=0.881
+cap_share                b=+0.141  p=0.125
+cap_tools                b=+0.064  p=0.357
+cap_other                b=-0.007  p=0.881
+cap_len                  b=+0.002  p=0.534

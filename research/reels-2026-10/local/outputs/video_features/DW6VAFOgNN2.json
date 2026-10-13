@@ -1,0 +1,44 @@
+{
+"dur": 61.901542,
+"n_cuts": 20,
+"cuts_per_10s": 3.2309372842440665,
+"first_cut_s": 1.433333,
+"cuts_first_5s": 2,
+"ocr": {
+"t0": [
+"NET GRAPH",
+"CONNECTED",
+"Еначала",
+"РЕФЕРЕНДУМ",
+"STHTUS: ОK.",
+"NDDES: 256. LINKS: 312"
+],
+"t1": [
+"NET GRAPH",
+"CONNECTED",
+"придума л",
+"РЕФЕРЕНДУМ",
+"NODES: 25E. LINKS: 3126"
+],
+"t2": [
+"NET GRAPH",
+"CONNECTED",
+"ЕЕЙчас",
+"РЕФЕРЕНДУМ",
+"NDDES: 251. LINKS: 3156"
+],
+"t3": [
+"NET GRAPH",
+"CONNECTED",
+"РЕФЕРЕНДУМ",
+"STHTUS: ОK",
+"NODES: 255. LINKS: 3126"
+],
+"mid": [
+"NET GRAPH",
+"CONNECTED",
+"Результа тэми",
+"STHTUS: ОК. NODES: 255. LINKS: 316"
+]
+}
+}

@@ -1,0 +1,51 @@
+{
+"dur": 73.418639,
+"n_cuts": 17,
+"cuts_per_10s": 2.315488305360714,
+"first_cut_s": 3.5,
+"cuts_first_5s": 1,
+"ocr": {
+"t0": [
+"PROCESSUR_STHTUS",
+"CONNECTED",
+"ПРОЦЕССОР",
+"16",
+"THREADS: 32"
+],
+"t1": [
+"PROCESSUR_STHTUS",
+"CONNECTED",
+"для",
+"ПРОЦЕССОР",
+"STHTUS: ОK: CORES:",
+"16",
+"THREADS: 32"
+],
+"t2": [
+"PROCESSUR_STHTUS",
+"CONNECTED",
+"ПРОЦЕССОР",
+"16",
+"THREADS: 32."
+],
+"t3": [
+"PROCESSOR_STATUS",
+"CONNECTED",
+"CONNECT",
+"ПРОЦЕССОР",
+"STHTUS: ОК: CORES:",
+"16",
+"THREADS: 32."
+],
+"mid": [
+"Raspberry Pi Zero 2W",
+"Home Alarr",
+"assenger",
+"(PicoClaw Al Assistant )",
+"System",
+"erry Pi Zero 2W",
+"[оT Home Alarm Бystem with Telegram Control",
+"Стать спансором"
+]
+}
+}

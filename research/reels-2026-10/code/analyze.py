@@ -1,6 +1,9 @@
 """Медианы просмотров по факторам для рилзов @harsh.times (>10K). Запуск: python3 analyze.py labels_YYYY-MM-DD.csv"""
+from pathlib import Path as _P
+_R = _P(__file__).resolve().parent.parent
+D, A, RES = _R / "data", _R / "annotations", _R / "results"
 import csv, statistics as st, sys
-rows = list(csv.DictReader(open(sys.argv[1])))
+rows = list(csv.DictReader(open(sys.argv[1] if len(sys.argv) > 1 else D / 'labels_2026-10-12.csv')))
 for r in rows:
     r["views"] = int(r["views"]); r["dur"] = float(r["dur"])
     d = r["dur"]

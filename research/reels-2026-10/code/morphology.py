@@ -1,10 +1,13 @@
 """Морфология транскриптов рилзов vs просмотры.
 python3 morphology.py transcripts_full_YYYY-MM-DD.json labels_YYYY-MM-DD.csv"""
+from pathlib import Path as _P
+_R = _P(__file__).resolve().parent.parent
+D, A, RES = _R / "data", _R / "annotations", _R / "results"
 import csv, json, re, sys, statistics as st
 import pymorphy3
 m = pymorphy3.MorphAnalyzer()
-T = json.load(open(sys.argv[1]))
-L = {r["shortcode"]: r for r in csv.DictReader(open(sys.argv[2]))}
+T = json.load(open(sys.argv[1] if len(sys.argv) > 1 else D / 'transcripts_full_2026-10-12.json'))
+L = {r["shortcode"]: r for r in csv.DictReader(open(sys.argv[2] if len(sys.argv) > 2 else D / 'labels_2026-10-12.csv'))}
 
 def sents(t): return [s for s in re.split(r"(?<=[.!?])\s+", t.strip()) if s]
 def feats(text, dur=None):

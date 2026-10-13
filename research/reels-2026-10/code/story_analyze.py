@@ -1,16 +1,19 @@
 """Сторителлинг-разметка (v3) vs метрики, с контролем темы/периода/длительности/кода.
 python3 story_analyze.py"""
+from pathlib import Path as _P
+_R = _P(__file__).resolve().parent.parent
+D, A, RES = _R / "data", _R / "annotations", _R / "results"
 import csv, json, glob, statistics as st
 from collections import Counter, defaultdict
 import numpy as np
 rng = np.random.default_rng(3)
-L = {r["shortcode"]: r for r in csv.DictReader(open("labels_2026-10-12.csv"))}
-S = {r["shortcode"]: r for r in csv.DictReader(open("reels_stats_2026-10-12.csv"))}
-F = {r["code"]: r for r in csv.DictReader(open("emotion/features_v2.csv"))}
+L = {r["shortcode"]: r for r in csv.DictReader(open(D / "labels_2026-10-12.csv"))}
+S = {r["shortcode"]: r for r in csv.DictReader(open(D / "reels_stats_2026-10-12.csv"))}
+F = {r["code"]: r for r in csv.DictReader(open(RES / "features_v2.csv"))}
 rows = []
-for f in sorted(glob.glob("emotion/labels_*.json")):
+for f in sorted(glob.glob(str(A / "labels_*.json"))):
     d = json.load(open(f)); c = d["code"]; s = d["sentences"]; n = len(s); st_ = d["story"]
-    sents = json.load(open(f"emotion/sentences_{c}.json"))["sentences"]
+    sents = json.load(open(A / f"sentences_{c}.json"))["sentences"]
     words = [len(x["text"].split()) for x in sents]; tw = sum(words); dur = float(L[c]["dur"])
     pos = lambda i: None if i is None else sum(words[:i]) / tw  # доля ролика до фразы
     fr = st_["freytag"]; fn = [x["function"] for x in s]
@@ -75,4 +78,4 @@ for name, x in tests:
     bv, pv = test(x, y_v, C); bc, pc = test(x, y_c, C2); bl, pl = test(x, y_l, C2)
     mk = lambda p: "**" if p < .05 else ("*" if p < .1 else "  ")
     print(f"{name:26} {bv:+.3f} {pv:.3f}{mk(pv)}   {bc:+.3f} {pc:.3f}{mk(pc)}   {bl:+.3f} {pl:.3f}{mk(pl)}")
-json.dump([{**r, "circle": sorted(r["circle"])} for r in rows], open("emotion/story_rows.json", "w"), ensure_ascii=False, indent=0)
+json.dump([{**r, "circle": sorted(r["circle"])} for r in rows], open(RES / "story_rows.json", "w"), ensure_ascii=False, indent=0)

@@ -1,9 +1,12 @@
 """Сводка психоэмоциональной разметки vs метрики.
 python3 emotion_analyze.py labels_YYYY-MM-DD.csv reels_stats_YYYY-MM-DD.csv"""
+from pathlib import Path as _P
+_R = _P(__file__).resolve().parent.parent
+D, A, RES = _R / "data", _R / "annotations", _R / "results"
 import csv, glob, json, sys, statistics as st
 from collections import Counter
-L = {r["shortcode"]: r for r in csv.DictReader(open(sys.argv[1]))}
-S = {r["shortcode"]: r for r in csv.DictReader(open(sys.argv[2]))}
+L = {r["shortcode"]: r for r in csv.DictReader(open(sys.argv[1] if len(sys.argv) > 1 else D / 'labels_2026-10-12.csv'))}
+S = {r["shortcode"]: r for r in csv.DictReader(open(sys.argv[2] if len(sys.argv) > 2 else D / 'reels_stats_2026-10-12.csv'))}
 
 def arc_shape(v):
     n = len(v)
@@ -20,7 +23,7 @@ def arc_shape(v):
     return "rise" if mc > ma else "fall"
 
 rows = []
-for f in sorted(glob.glob("emotion/labels_*.json")):
+for f in sorted(glob.glob(str(A / "labels_*.json"))):
     d = json.load(open(f)); c = d["code"]; s = d["sentences"]
     if c not in L: continue
     views = int(L[c]["views"]); likes = int(S[c]["likes"]); com = int(S[c]["comments"])
@@ -82,4 +85,4 @@ for cat in ("arc", "hook_emotion", "hook_mech"):
     for r in rows: g.setdefault(r[cat], []).append(r["views"])
     for key, v in sorted(g.items(), key=lambda x: -st.median(x[1])):
         print(f"{key:16} n={len(v):2}  median={k(st.median(v)):>6}")
-json.dump(rows, open("emotion/summary.json", "w"), ensure_ascii=False, indent=1)
+json.dump(rows, open(RES / "summary.json", "w"), ensure_ascii=False, indent=1)

@@ -1,11 +1,14 @@
 """Проверка признаков с контролем факторов: тема, период, длительность, код в комменты.
 Каждый признак добавляется к контрольной модели по одному (n=61, больше признаков сразу не выдержит).
 p — перестановочный тест (признак перемешивается 5000 раз). python3 multivariate.py"""
+from pathlib import Path as _P
+_R = _P(__file__).resolve().parent.parent
+D, A, RES = _R / "data", _R / "annotations", _R / "results"
 import csv, json, math
 import numpy as np
 rng = np.random.default_rng(0)
-R = list(csv.DictReader(open("emotion/features_v2.csv")))
-arc = {r["code"]: r["arc"] for r in json.load(open("emotion/summary.json"))}
+R = list(csv.DictReader(open(RES / "features_v2.csv")))
+arc = {r["code"]: r["arc"] for r in json.load(open(RES / "summary.json"))}
 for r in R: r["arc_rise"] = int(arc.get(r["code"]) == "rise")
 n = len(R)
 def col(k): return np.array([float(r[k]) for r in R])

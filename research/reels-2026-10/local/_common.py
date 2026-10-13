@@ -1,9 +1,9 @@
 import json, csv, os, sys
 from pathlib import Path
-ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data" / "instagram"
-OUT = DATA / "local"
-EMO = DATA / "emotion"
+ROOT = Path(__file__).resolve().parent.parent  # research/reels-2026-10
+DATA = ROOT / "data"
+OUT = ROOT / "local" / "outputs"
+EMO = ROOT / "annotations"
 def codes_all():
     return [r["shortcode"] for r in csv.DictReader(open(DATA / "reels_stats_2026-10-12.csv"))]
 def codes_hits():

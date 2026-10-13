@@ -1,16 +1,19 @@
 """Сборка признаков ролика: эмоции (v2), структура (функции фраз), контрольные факторы.
 Пишет emotion/features_v2.csv. python3 reel_features.py"""
+from pathlib import Path as _P
+_R = _P(__file__).resolve().parent.parent
+D, A, RES = _R / "data", _R / "annotations", _R / "results"
 import csv, json, glob, re, math, statistics as st
-L = {r["shortcode"]: r for r in csv.DictReader(open("labels_2026-10-12.csv"))}
-S = {r["shortcode"]: r for r in csv.DictReader(open("reels_stats_2026-10-12.csv"))}
-T = json.load(open("transcripts_full_2026-10-12.json"))
+L = {r["shortcode"]: r for r in csv.DictReader(open(D / "labels_2026-10-12.csv"))}
+S = {r["shortcode"]: r for r in csv.DictReader(open(D / "reels_stats_2026-10-12.csv"))}
+T = json.load(open(D / "transcripts_full_2026-10-12.json"))
 CODE = re.compile(r"(пиши|напиши|пишите|напишешь|напишите)(?:(?![.!?] ).){0,60}(коммент|личк)|в коммент\w*(?:(?![.!?] ).){0,30}(пришл|вышл|скину|отправ)", re.I)
 rows = []
-for f in sorted(glob.glob("emotion/labels_*.json")):
+for f in sorted(glob.glob(str(A / "labels_*.json"))):
     d = json.load(open(f)); c = d["code"]; s = d["sentences"]; n = len(s)
     lab, st_ = L[c], S[c]
     views = int(lab["views"]); dur = float(lab["dur"])
-    sents = json.load(open(f"emotion/sentences_{c}.json"))["sentences"]
+    sents = json.load(open(A / f"sentences_{c}.json"))["sentences"]
     words = [len(x["text"].split()) for x in sents]; tw = sum(words) or 1
     cum = [sum(words[:k]) / tw * dur for k in range(n)]  # оценка секунды начала фразы
     fn = [x["function"] for x in s]
@@ -41,6 +44,6 @@ for f in sorted(glob.glob("emotion/labels_*.json")):
         seq=">".join(seq[:6]), second=fn[1] if n > 1 else "",
     ))
 keys = list(rows[0])
-with open("emotion/features_v2.csv", "w", newline="") as f:
+with open(RES / "features_v2.csv", "w", newline="") as f:
     w = csv.DictWriter(f, fieldnames=keys); w.writeheader(); w.writerows(rows)
 print(len(rows), "роликов;", "с кодом в комменты:", sum(r["cta_code"] for r in rows))

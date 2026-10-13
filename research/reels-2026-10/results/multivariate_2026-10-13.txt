@@ -1,0 +1,73 @@
+n=60. Контроль: тема (manifesto, devices, essay, own_product, business_advice vs ai_tools/прочее), период, log(длительность), код в комменты.
+
+### log_views   R² только контроля = 0.19
+контроль: код в комменты b=-0.034
+-- эмоции/приёмы
+hook_identity          b=+0.097  p=0.547
+hook_enemy             b=+0.238  p=0.408
+hook_contrast          b=-0.039  p=0.784
+enemy                  b=-0.096  p=0.588
+concrete_share         b=+0.425  p=0.223
+hook_concrete          b=+0.052  p=0.713
+open_loops             b=-0.065  p=0.068 *
+neg_viewer_share       b=-1.932  p=0.025 **
+arc_rise               b=-0.128  p=0.370
+-- структура
+t_promise              b=-0.005  p=0.019 **
+t_proof                b=-0.001  p=0.627
+t_step                 b=+0.001  p=0.614
+t_payoff               b=-0.001  p=0.690
+promise_before_proof   b=+0.327  p=0.012 **
+has_payoff             b=+0.045  p=0.727
+has_twist              b=-0.145  p=0.258
+blocks_per_10s         b=-0.183  p=0.124
+step_share             b=+0.365  p=0.250
+insight_share          b=-0.553  p=0.236
+
+### log_comments_per_view   R² только контроля = 0.22
+контроль: код в комменты b=+0.623
+-- эмоции/приёмы
+hook_identity          b=-0.062  p=0.827
+hook_enemy             b=+0.520  p=0.267
+hook_contrast          b=+0.052  p=0.828
+enemy                  b=+0.781  p=0.008 **
+concrete_share         b=-0.699  p=0.233
+hook_concrete          b=-0.267  p=0.278
+open_loops             b=-0.032  p=0.596
+neg_viewer_share       b=-0.465  p=0.760
+arc_rise               b=+0.117  p=0.619
+-- структура
+t_promise              b=-0.001  p=0.714
+t_proof                b=+0.005  p=0.270
+t_step                 b=+0.006  p=0.120
+t_payoff               b=-0.001  p=0.761
+promise_before_proof   b=+0.128  p=0.569
+has_payoff             b=+0.410  p=0.065 *
+has_twist              b=+0.048  p=0.826
+blocks_per_10s         b=+0.352  p=0.076 *
+step_share             b=-2.281  p=0.000 **
+insight_share          b=+1.874  p=0.018 **
+
+### log_likes_per_view   R² только контроля = 0.21
+контроль: код в комменты b=-0.007
+-- эмоции/приёмы
+hook_identity          b=+0.029  p=0.597
+hook_enemy             b=-0.096  p=0.279
+hook_contrast          b=-0.065  p=0.187
+enemy                  b=-0.037  p=0.533
+concrete_share         b=+0.149  p=0.221
+hook_concrete          b=+0.058  p=0.245
+open_loops             b=-0.020  p=0.098 *
+neg_viewer_share       b=-0.503  p=0.085 *
+arc_rise               b=-0.046  p=0.341
+-- структура
+t_promise              b=-0.001  p=0.417
+t_proof                b=+0.001  p=0.298
+t_step                 b=+0.001  p=0.154
+t_payoff               b=+0.001  p=0.155
+promise_before_proof   b=+0.070  p=0.131
+has_payoff             b=+0.019  p=0.680
+has_twist              b=-0.023  p=0.623
+blocks_per_10s         b=-0.033  p=0.409
+step_share             b=+0.129  p=0.237
+insight_share          b=-0.059  p=0.717

@@ -1,6 +1,6 @@
 # Проверка выводов с учётом контрольных факторов + структура ролика
 
-Дата: 2026-10-12. 61 рилз >10K, разметка эмоций v2. Скрипты: `data/instagram/reel_features.py`, `multivariate.py`. Сырые результаты: `data/instagram/emotion/multivariate_v2.txt`, `structure_v2.txt`.
+Дата: 2026-10-12. 61 рилз >10K, разметка эмоций v2. Скрипты: `code/reel_features.py`, `code/multivariate.py`. Сырые результаты (пересчёт 2026-10-13 без Dc-27MTgu47): `results/multivariate_2026-10-13.txt`.
 
 ## Метод
 
@@ -57,7 +57,7 @@
 
 ## Повторный аудит методики (2026-10-12, второй проход)
 
-Сырые результаты: `data/instagram/emotion/robustness_v2.txt`.
+Сырые результаты аудита были в `robustness_v2.txt` (удалён при пересчёте; цифры ниже — от 2026-10-12, n=61).
 
 ### Что проверил
 

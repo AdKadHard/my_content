@@ -1,0 +1,46 @@
+n=62  median=39K  mean=89K
+
+## topic
+manifesto        n= 7  median=  103K  mean=  165K  min=  10K  max=  436K
+meme             n= 2  median=   84K  mean=   84K  min=  13K  max=  155K
+devices          n=11  median=   69K  mean=  160K  min=  17K  max= 1025K
+news             n= 1  median=   39K  mean=   39K  min=  39K  max=   39K
+own_product      n=11  median=   38K  mean=   64K  min=  16K  max=  252K
+ai_tools         n=17  median=   37K  mean=   74K  min=  15K  max=  260K
+essay            n= 5  median=   31K  mean=   39K  min=  12K  max=   71K
+business_advice  n= 6  median=   28K  mean=   34K  min=  11K  max=   82K
+lifestyle        n= 1  median=   18K  mean=   18K  min=  18K  max=   18K
+family           n= 1  median=   16K  mean=   16K  min=  16K  max=   16K
+
+## hook
+manifesto        n= 7  median=  103K  mean=  165K  min=  10K  max=  436K
+promise          n=10  median=   90K  mean=   94K  min=  15K  max=  164K
+meme             n= 2  median=   84K  mean=   84K  min=  13K  max=  155K
+counter          n=11  median=   42K  mean=   65K  min=  11K  max=  129K
+news             n= 3  median=   37K  mean=   47K  min=  22K  max=   82K
+number           n= 8  median=   35K  mean=  162K  min=  16K  max= 1025K
+essay            n= 6  median=   32K  mean=   38K  min=  12K  max=   71K
+devlog           n= 8  median=   29K  mean=   32K  min=  16K  max=   69K
+question         n= 7  median=   21K  mean=   86K  min=  12K  max=  260K
+
+## dur_b
+45-60s           n=10  median=  104K  mean=  113K  min=  18K  max=  329K
+<30s             n= 2  median=   84K  mean=   84K  min=  13K  max=  155K
+30-45s           n=14  median=   38K  mean=   70K  min=  10K  max=  260K
+90+s             n= 9  median=   38K  mean=   40K  min=  12K  max=  105K
+60-90s           n=27  median=   37K  mean=  106K  min=  11K  max= 1025K
+
+## period
+2026H1           n=24  median=   51K  mean=  112K  min=  12K  max= 1025K
+2025             n=22  median=   34K  mean=   73K  min=  10K  max=  329K
+2026H2           n=16  median=   32K  mean=   76K  min=  12K  max=  436K
+
+## topic x hook (n>=3)
+ai_tools         promise    n=7 median=121K
+devices          counter    n=3 median=105K
+manifesto        manifesto  n=7 median=103K
+own_product      devlog     n=3 median=38K
+devices          devlog     n=3 median=37K
+ai_tools         counter    n=5 median=31K
+essay            essay      n=5 median=31K
+own_product      number     n=4 median=23K

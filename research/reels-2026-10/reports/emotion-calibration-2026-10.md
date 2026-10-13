@@ -1,6 +1,6 @@
 # Калибровка эмоциональной разметки: Адель vs LLM
 
-12 фраз из 12 роликов, Адель размечал вслепую (эмоция + сила 1–5). Ответы: `data/instagram/emotion/calibration_adel.jsonl`.
+12 фраз из 12 роликов, Адель размечал вслепую (эмоция + сила 1–5). Ответы: `annotations/calibration_adel.jsonl`.
 
 | Ролик | Фраза | Адель | LLM |
 |---|---|---|---|
@@ -39,7 +39,7 @@
 
 # Калибровка функций фраз (структура): Адель vs LLM
 
-12 фраз, Адель размечал вслепую. Ответы: `data/instagram/emotion/calibration_adel_functions.jsonl`.
+12 фраз, Адель размечал вслепую. Ответы: `annotations/calibration_adel_functions.jsonl`.
 
 | Ролик | Фраза | Адель | LLM |
 |---|---|---|---|

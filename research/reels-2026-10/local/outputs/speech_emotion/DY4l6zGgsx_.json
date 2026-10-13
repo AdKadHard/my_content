@@ -1,0 +1,173 @@
+[
+{
+"i": 0,
+"resd": {
+"enthusiasm": 0.149,
+"neutral": 0.147,
+"sadness": 0.147,
+"anger": 0.146,
+"fear": 0.141,
+"happiness": 0.137,
+"disgust": 0.133
+},
+"dusha": {
+"neutral": 0.843,
+"positive": 0.145,
+"angry": 0.011,
+"other": 0.001,
+"sad": 0.0
+}
+},
+{
+"i": 1,
+"resd": {
+"sadness": 0.15,
+"enthusiasm": 0.146,
+"neutral": 0.144,
+"disgust": 0.144,
+"happiness": 0.139,
+"anger": 0.139,
+"fear": 0.136
+},
+"dusha": {
+"neutral": 0.985,
+"positive": 0.012,
+"angry": 0.002,
+"other": 0.001,
+"sad": 0.0
+}
+},
+{
+"i": 2,
+"resd": {
+"enthusiasm": 0.153,
+"sadness": 0.147,
+"neutral": 0.147,
+"anger": 0.144,
+"fear": 0.137,
+"happiness": 0.136,
+"disgust": 0.135
+},
+"dusha": {
+"positive": 0.571,
+"neutral": 0.412,
+"angry": 0.015,
+"other": 0.001,
+"sad": 0.001
+}
+},
+{
+"i": 3,
+"resd": {
+"sadness": 0.15,
+"fear": 0.148,
+"anger": 0.143,
+"disgust": 0.142,
+"neutral": 0.14,
+"enthusiasm": 0.139,
+"happiness": 0.138
+},
+"dusha": {
+"positive": 0.434,
+"neutral": 0.324,
+"angry": 0.24,
+"sad": 0.002,
+"other": 0.001
+}
+},
+{
+"i": 4,
+"resd": {
+"neutral": 0.155,
+"enthusiasm": 0.151,
+"anger": 0.145,
+"sadness": 0.142,
+"happiness": 0.141,
+"fear": 0.136,
+"disgust": 0.131
+},
+"dusha": {
+"neutral": 0.867,
+"positive": 0.129,
+"angry": 0.002,
+"sad": 0.001,
+"other": 0.001
+}
+},
+{
+"i": 5,
+"resd": {
+"sadness": 0.15,
+"fear": 0.146,
+"anger": 0.143,
+"neutral": 0.142,
+"enthusiasm": 0.141,
+"disgust": 0.139,
+"happiness": 0.139
+},
+"dusha": {
+"neutral": 0.534,
+"angry": 0.432,
+"positive": 0.032,
+"sad": 0.002,
+"other": 0.001
+}
+},
+{
+"i": 6,
+"resd": {
+"sadness": 0.148,
+"neutral": 0.148,
+"enthusiasm": 0.145,
+"anger": 0.143,
+"fear": 0.143,
+"happiness": 0.138,
+"disgust": 0.136
+},
+"dusha": {
+"neutral": 0.817,
+"angry": 0.092,
+"positive": 0.089,
+"sad": 0.002,
+"other": 0.001
+}
+},
+{
+"i": 7,
+"resd": {
+"neutral": 0.156,
+"enthusiasm": 0.149,
+"anger": 0.144,
+"sadness": 0.141,
+"happiness": 0.141,
+"fear": 0.138,
+"disgust": 0.129
+},
+"dusha": {
+"positive": 0.77,
+"neutral": 0.221,
+"angry": 0.008,
+"sad": 0.001,
+"other": 0.001
+}
+},
+{
+"i": 8,
+"resd": {
+"sadness": 0.15,
+"fear": 0.146,
+"anger": 0.143,
+"neutral": 0.142,
+"disgust": 0.141,
+"enthusiasm": 0.14,
+"happiness": 0.139
+},
+"dusha": {
+"angry": 0.632,
+"neutral": 0.323,
+"positive": 0.044,
+"other": 0.001,
+"sad": 0.001
+}
+}
+]

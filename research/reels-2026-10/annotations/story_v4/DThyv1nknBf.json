@@ -1,0 +1,13 @@
+{
+  "code": "DThyv1nknBf",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Отчёт McKinsey как повод, но тело ролика — пошаговый план внедрения ИИ для зрителя; компании делают для галочки и теряют деньги."
+  }
+}

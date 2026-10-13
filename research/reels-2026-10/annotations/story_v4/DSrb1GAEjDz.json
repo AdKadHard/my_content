@@ -1,0 +1,14 @@
+{
+  "code": "DSrb1GAEjDz",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "none",
+    "stakes": [
+      "money",
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "Девлог «день второй» про сборку ИИ-ассистента с косяком по аккумулятору, в конце приглашение повторить по инструкции."
+  }
+}

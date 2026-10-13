@@ -1,0 +1,13 @@
+{
+  "code": "DahdP9Bgjvj",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "Инструкция «тебе понадобится X, Y и промпт» с утверждением, что обычный агент-транскрибатор (мейнстрим) — прошлый век."
+  }
+}

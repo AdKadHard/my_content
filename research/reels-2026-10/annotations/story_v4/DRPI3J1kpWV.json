@@ -1,0 +1,14 @@
+{
+  "code": "DRPI3J1kpWV",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Манифест «если бы я был новичком»: забил бы на вайб-кодинг и платную рекламу, список действий для зрителя, который делает не так."
+  }
+}

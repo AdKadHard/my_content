@@ -1,0 +1,14 @@
+{
+  "code": "DZmXMBBA6EK",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "author_vs_world",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "«Думал, что надо уметь моделировать — проверил, ИИ делает за 5 минут», затем «тебе понадобится эскиз и вот этот промпт» — путь для зрителя."
+  }
+}

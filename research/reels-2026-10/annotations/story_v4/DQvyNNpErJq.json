@@ -1,0 +1,13 @@
+{
+  "code": "DQvyNNpErJq",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "none",
+    "stakes": [
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Хронология лета 2021 – январь: как автор без кода собрал сервис на 15к в месяц, с рамкой «ты тоже так можешь»; спора нет, на кону деньги."
+  }
+}

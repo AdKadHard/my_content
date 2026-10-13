@@ -1,0 +1,13 @@
+{
+  "code": "DTiUNxNktCo",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "review",
+    "conflict": "none",
+    "stakes": [
+      "time"
+    ],
+    "pov": "third",
+    "note": "«Этот парень создал» сервис: показ и цифры (450к просмотров) без пути «как повторить», про третье лицо."
+  }
+}

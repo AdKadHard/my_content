@@ -1,0 +1,14 @@
+{
+  "code": "DXg8qnTALYC",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "money",
+      "knowledge"
+    ],
+    "pov": "viewer",
+    "note": "«Вот как проверить» — пять показателей внедрения ИИ в твоей компании; мейнстрим (80% по McKinsey) внедряет на бумаге и меряет витринный показатель; на кону деньги компании и понимание реальной картины."
+  }
+}

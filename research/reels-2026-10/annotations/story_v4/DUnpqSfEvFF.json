@@ -1,0 +1,13 @@
+{
+  "code": "DUnpqSfEvFF",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "review",
+    "conflict": "author_vs_world",
+    "stakes": [
+      "money"
+    ],
+    "pov": "own",
+    "note": "Обзор HiDock с оценкой железа и софта: «расхайпленный блогерами хлам? я проверил», цена девайса и подписки, свой опыт использования."
+  }
+}

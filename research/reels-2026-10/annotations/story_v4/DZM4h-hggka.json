@@ -1,0 +1,13 @@
+{
+  "code": "DZM4h-hggka",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "«А что вы парсерами не пользуетесь» — зритель собирает данные руками, автор показывает как делать иначе и предлагает готовый репозиторий."
+  }
+}

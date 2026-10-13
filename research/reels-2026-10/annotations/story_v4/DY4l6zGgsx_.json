@@ -1,0 +1,13 @@
+{
+  "code": "DY4l6zGgsx_",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "none",
+    "stakes": [
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "Пошаговая инструкция «как я создаю бироллы за две минуты»: скачай, открой, вот промпт — зрителя ведут за руку, экономия времени."
+  }
+}

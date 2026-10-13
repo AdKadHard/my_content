@@ -1,0 +1,14 @@
+{
+  "code": "DWV-G0CgE-l",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "review",
+    "conflict": "none",
+    "stakes": [
+      "time",
+      "knowledge"
+    ],
+    "pov": "third",
+    "note": "Показ и оценка чужого сайта с гайдами по внедрению ИИ: «чувак потратил сотни часов и собрал», без пути как повторить."
+  }
+}

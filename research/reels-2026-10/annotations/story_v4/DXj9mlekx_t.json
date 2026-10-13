@@ -1,0 +1,13 @@
+{
+  "code": "DXj9mlekx_t",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "review",
+    "conflict": "none",
+    "stakes": [
+      "money"
+    ],
+    "pov": "own",
+    "note": "Показ девайса, который заменил автору мышку и клавиатуру, с ценой и «советую»; своя ситуация без шагов повторения."
+  }
+}

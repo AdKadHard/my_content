@@ -1,0 +1,14 @@
+{
+  "code": "DVP_w6sEtoW",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "money",
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "«Посчитаем экономику OpenClaw» с выводом что делать: не бежать за Mac Mini — зритель с FOMO делает не так; автор считает вместе с ним."
+  }
+}

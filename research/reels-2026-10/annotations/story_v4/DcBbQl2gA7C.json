@@ -1,0 +1,13 @@
+{
+  "code": "DcBbQl2gA7C",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "none",
+    "stakes": [
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "Эссе про private speech переходит в «смотри, как это делать на практике» с шагами для зрителя; никто не неправ, выигрыш во времени."
+  }
+}

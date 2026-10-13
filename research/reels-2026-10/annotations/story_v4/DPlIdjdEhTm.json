@@ -1,0 +1,14 @@
+{
+  "code": "DPlIdjdEhTm",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Манифест «если бы я был новичком»: не пытался бы без подготовки, не поддавался бы FOMO — новички делают не так, ставка выгорание и потраченные часы/деньги."
+  }
+}

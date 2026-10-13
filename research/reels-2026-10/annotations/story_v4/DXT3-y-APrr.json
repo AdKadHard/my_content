@@ -1,0 +1,14 @@
+{
+  "code": "DXT3-y-APrr",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "none",
+    "stakes": [
+      "money",
+      "job"
+    ],
+    "pov": "own",
+    "note": "История о том, как свой бот с 1000$/мес пошёл ко дну, с выводом про эффективность; своя ситуация, никто не делает «не так»."
+  }
+}

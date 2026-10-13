@@ -1,0 +1,15 @@
+{
+  "code": "DcdMfFegZil",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "money",
+      "time",
+      "job"
+    ],
+    "pov": "viewer",
+    "note": "Манифест «если бы я был новичком»: забил бы на промпт-инжиниринг, половина внедривших не видит эффекта — мейнстрим делает не так, на кону зарплата и часы."
+  }
+}

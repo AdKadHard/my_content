@@ -1,0 +1,13 @@
+{
+  "code": "DdoXwrIAFaU",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "Манифест «если бы я был новичком в ИИ-контенте»: забил бы на контент-заводы и нейрослоп, пять задач для зрителя."
+  }
+}

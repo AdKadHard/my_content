@@ -1,0 +1,14 @@
+{
+  "code": "DcbVAmYgitw",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "review",
+    "conflict": "none",
+    "stakes": [
+      "money",
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "Оценка корпоративного ИИ-мозга с цифрами расходов и окупаемости, без пути «как собрать», «давай без фома разберёмся»."
+  }
+}

@@ -1,0 +1,154 @@
+[
+{
+"i": 0,
+"resd": {
+"neutral": 0.15,
+"enthusiasm": 0.146,
+"disgust": 0.145,
+"fear": 0.141,
+"anger": 0.141,
+"happiness": 0.14,
+"sadness": 0.136
+},
+"dusha": {
+"neutral": 0.968,
+"angry": 0.024,
+"sad": 0.004,
+"positive": 0.003,
+"other": 0.001
+}
+},
+{
+"i": 1,
+"resd": {
+"neutral": 0.152,
+"enthusiasm": 0.149,
+"anger": 0.146,
+"disgust": 0.14,
+"fear": 0.14,
+"happiness": 0.137,
+"sadness": 0.136
+},
+"dusha": {
+"neutral": 0.945,
+"angry": 0.049,
+"positive": 0.005,
+"other": 0.001,
+"sad": 0.001
+}
+},
+{
+"i": 2,
+"resd": {
+"neutral": 0.155,
+"enthusiasm": 0.153,
+"anger": 0.146,
+"happiness": 0.141,
+"sadness": 0.14,
+"fear": 0.136,
+"disgust": 0.129
+},
+"dusha": {
+"neutral": 0.904,
+"angry": 0.089,
+"positive": 0.004,
+"sad": 0.002,
+"other": 0.001
+}
+},
+{
+"i": 3,
+"resd": {
+"neutral": 0.153,
+"enthusiasm": 0.151,
+"anger": 0.148,
+"happiness": 0.145,
+"sadness": 0.141,
+"fear": 0.134,
+"disgust": 0.128
+},
+"dusha": {
+"neutral": 0.99,
+"angry": 0.005,
+"sad": 0.004,
+"positive": 0.002,
+"other": 0.0
+}
+},
+{
+"i": 4,
+"resd": {
+"neutral": 0.155,
+"enthusiasm": 0.151,
+"anger": 0.146,
+"happiness": 0.143,
+"sadness": 0.14,
+"fear": 0.135,
+"disgust": 0.131
+},
+"dusha": {
+"neutral": 0.968,
+"angry": 0.028,
+"positive": 0.003,
+"sad": 0.001,
+"other": 0.001
+}
+},
+{
+"i": 5,
+"resd": {
+"enthusiasm": 0.153,
+"neutral": 0.153,
+"anger": 0.147,
+"happiness": 0.142,
+"sadness": 0.141,
+"fear": 0.134,
+"disgust": 0.129
+},
+"dusha": {
+"neutral": 0.974,
+"angry": 0.016,
+"positive": 0.01,
+"sad": 0.0,
+"other": 0.0
+}
+},
+{
+"i": 6,
+"resd": {
+"neutral": 0.158,
+"enthusiasm": 0.153,
+"anger": 0.15,
+"sadness": 0.142,
+"happiness": 0.137,
+"fear": 0.135,
+"disgust": 0.126
+},
+"dusha": {
+"positive": 0.615,
+"neutral": 0.372,
+"angry": 0.012,
+"sad": 0.001,
+"other": 0.001
+}
+},
+{
+"i": 7,
+"resd": {
+"neutral": 0.155,
+"enthusiasm": 0.152,
+"anger": 0.147,
+"happiness": 0.141,
+"sadness": 0.139,
+"fear": 0.136,
+"disgust": 0.13
+},
+"dusha": {
+"neutral": 0.656,
+"angry": 0.323,
+"positive": 0.019,
+"sad": 0.001,
+"other": 0.001
+}
+}
+]

@@ -1,0 +1,14 @@
+{
+  "code": "DPyl1BZEhiM",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "none",
+    "stakes": [
+      "money",
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "Схема тестирования идей по шагам, которую зритель повторяет и экономит деньги и годы."
+  }
+}

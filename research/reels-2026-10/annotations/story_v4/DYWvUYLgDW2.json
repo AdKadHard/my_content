@@ -1,0 +1,14 @@
+{
+  "code": "DYWvUYLgDW2",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "none",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Три варианта архитектуры второго мозга без неправой стороны и совет «выбирай простое», автор ведёт зрителя за руку и экономит ему время и токены."
+  }
+}

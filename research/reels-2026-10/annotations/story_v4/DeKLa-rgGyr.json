@@ -1,0 +1,14 @@
+{
+  "code": "DeKLa-rgGyr",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "essay",
+    "conflict": "none",
+    "stakes": [
+      "knowledge",
+      "job"
+    ],
+    "pov": "third",
+    "note": "Тезис Коуза о фирме, пример Uber, перенос на ИИ: компания вызывает труд как функцию — зритель не поймёт, что меняется с работой."
+  }
+}

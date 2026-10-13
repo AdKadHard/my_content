@@ -1,0 +1,287 @@
+[
+{
+"i": 0,
+"resd": {
+"enthusiasm": 0.154,
+"neutral": 0.148,
+"happiness": 0.147,
+"anger": 0.146,
+"sadness": 0.141,
+"fear": 0.133,
+"disgust": 0.132
+},
+"dusha": {
+"positive": 0.554,
+"neutral": 0.394,
+"angry": 0.049,
+"sad": 0.002,
+"other": 0.002
+}
+},
+{
+"i": 1,
+"resd": {
+"enthusiasm": 0.156,
+"neutral": 0.153,
+"anger": 0.15,
+"sadness": 0.142,
+"happiness": 0.139,
+"fear": 0.133,
+"disgust": 0.127
+},
+"dusha": {
+"positive": 0.64,
+"neutral": 0.281,
+"angry": 0.078,
+"other": 0.001,
+"sad": 0.0
+}
+},
+{
+"i": 2,
+"resd": {
+"neutral": 0.156,
+"enthusiasm": 0.15,
+"anger": 0.147,
+"happiness": 0.141,
+"fear": 0.137,
+"sadness": 0.136,
+"disgust": 0.133
+},
+"dusha": {
+"neutral": 0.987,
+"positive": 0.011,
+"sad": 0.001,
+"angry": 0.001,
+"other": 0.0
+}
+},
+{
+"i": 3,
+"resd": {
+"disgust": 0.155,
+"happiness": 0.146,
+"neutral": 0.145,
+"fear": 0.144,
+"enthusiasm": 0.143,
+"anger": 0.139,
+"sadness": 0.128
+},
+"dusha": {
+"neutral": 0.978,
+"positive": 0.017,
+"angry": 0.002,
+"sad": 0.002,
+"other": 0.0
+}
+},
+{
+"i": 4,
+"resd": {
+"neutral": 0.155,
+"enthusiasm": 0.152,
+"anger": 0.148,
+"sadness": 0.142,
+"happiness": 0.141,
+"fear": 0.133,
+"disgust": 0.129
+},
+"dusha": {
+"neutral": 0.52,
+"angry": 0.337,
+"positive": 0.141,
+"sad": 0.001,
+"other": 0.001
+}
+},
+{
+"i": 5,
+"resd": {
+"enthusiasm": 0.153,
+"neutral": 0.148,
+"anger": 0.147,
+"sadness": 0.145,
+"happiness": 0.138,
+"fear": 0.135,
+"disgust": 0.134
+},
+"dusha": {
+"neutral": 0.852,
+"positive": 0.14,
+"angry": 0.006,
+"sad": 0.001,
+"other": 0.001
+}
+},
+{
+"i": 6,
+"resd": {
+"neutral": 0.157,
+"enthusiasm": 0.154,
+"anger": 0.147,
+"happiness": 0.139,
+"sadness": 0.139,
+"fear": 0.136,
+"disgust": 0.127
+},
+"dusha": {
+"neutral": 0.899,
+"positive": 0.098,
+"angry": 0.002,
+"other": 0.001,
+"sad": 0.0
+}
+},
+{
+"i": 7,
+"resd": {
+"enthusiasm": 0.15,
+"neutral": 0.15,
+"sadness": 0.145,
+"anger": 0.145,
+"fear": 0.14,
+"happiness": 0.138,
+"disgust": 0.132
+},
+"dusha": {
+"neutral": 0.724,
+"positive": 0.223,
+"angry": 0.053,
+"other": 0.001,
+"sad": 0.0
+}
+},
+{
+"i": 8,
+"resd": {
+"neutral": 0.147,
+"sadness": 0.146,
+"enthusiasm": 0.145,
+"anger": 0.145,
+"fear": 0.144,
+"happiness": 0.138,
+"disgust": 0.135
+},
+"dusha": {
+"neutral": 0.555,
+"positive": 0.415,
+"angry": 0.029,
+"other": 0.001,
+"sad": 0.0
+}
+},
+{
+"i": 9,
+"resd": {
+"neutral": 0.152,
+"enthusiasm": 0.152,
+"anger": 0.147,
+"happiness": 0.144,
+"sadness": 0.142,
+"fear": 0.133,
+"disgust": 0.131
+},
+"dusha": {
+"neutral": 0.911,
+"positive": 0.074,
+"angry": 0.013,
+"sad": 0.001,
+"other": 0.001
+}
+},
+{
+"i": 10,
+"resd": {
+"happiness": 0.16,
+"enthusiasm": 0.146,
+"neutral": 0.143,
+"disgust": 0.142,
+"sadness": 0.141,
+"anger": 0.14,
+"fear": 0.129
+},
+"dusha": {
+"neutral": 0.913,
+"positive": 0.078,
+"angry": 0.008,
+"sad": 0.001,
+"other": 0.001
+}
+},
+{
+"i": 11,
+"resd": {
+"neutral": 0.153,
+"enthusiasm": 0.151,
+"anger": 0.148,
+"happiness": 0.146,
+"sadness": 0.141,
+"fear": 0.135,
+"disgust": 0.127
+},
+"dusha": {
+"neutral": 0.974,
+"positive": 0.019,
+"angry": 0.006,
+"sad": 0.001,
+"other": 0.0
+}
+},
+{
+"i": 12,
+"resd": {
+"neutral": 0.155,
+"enthusiasm": 0.151,
+"anger": 0.147,
+"happiness": 0.144,
+"sadness": 0.14,
+"fear": 0.134,
+"disgust": 0.129
+},
+"dusha": {
+"neutral": 0.768,
+"angry": 0.149,
+"positive": 0.081,
+"other": 0.001,
+"sad": 0.001
+}
+},
+{
+"i": 13,
+"resd": {
+"neutral": 0.154,
+"enthusiasm": 0.148,
+"happiness": 0.146,
+"anger": 0.144,
+"sadness": 0.136,
+"disgust": 0.136,
+"fear": 0.135
+},
+"dusha": {
+"neutral": 0.717,
+"angry": 0.258,
+"positive": 0.023,
+"other": 0.001,
+"sad": 0.001
+}
+},
+{
+"i": 14,
+"resd": {
+"neutral": 0.158,
+"enthusiasm": 0.15,
+"anger": 0.148,
+"happiness": 0.14,
+"sadness": 0.137,
+"fear": 0.136,
+"disgust": 0.131
+},
+"dusha": {
+"neutral": 0.992,
+"positive": 0.005,
+"angry": 0.002,
+"sad": 0.001,
+"other": 0.001
+}
+}
+]

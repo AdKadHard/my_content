@@ -1,0 +1,13 @@
+{
+  "code": "DOFjJRWErB3",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "essay",
+    "conflict": "none",
+    "stakes": [
+      "knowledge"
+    ],
+    "pov": "third",
+    "note": "Рассуждение: тезис про Netflix и Формулу-1, пример из другой области, вывод про «культурную контрабанду»; про третьих лиц."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "code": "DWu_nN2gPA3",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "money"
+    ],
+    "pov": "own",
+    "note": "«Купил Mac Mini? а у меня PicoClaw за 40$ на локальной LLM» — показ своего сетапа против зрителя, переплатившего за железо."
+  }
+}

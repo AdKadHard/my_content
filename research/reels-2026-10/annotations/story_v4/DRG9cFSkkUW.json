@@ -1,0 +1,13 @@
+{
+  "code": "DRG9cFSkkUW",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "author_vs_world",
+    "stakes": [
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "«Говорят вайбкодинг фейк, я проверил», секрет в ТЗ и «ты тоже так можешь» — калибровочный пример tutorial."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "code": "DOvEaGNEnA1",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "review",
+    "conflict": "none",
+    "stakes": [
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "«Сколько я заработал на сервисе»: цифры расходов и доходов без пути как повторить, но с приглашением «ты так тоже можешь»."
+  }
+}

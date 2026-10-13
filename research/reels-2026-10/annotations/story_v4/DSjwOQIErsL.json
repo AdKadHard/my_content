@@ -1,0 +1,13 @@
+{
+  "code": "DSjwOQIErsL",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "review",
+    "conflict": "none",
+    "stakes": [
+      "time"
+    ],
+    "pov": "own",
+    "note": "Показ сервиса-ИИ-продюсера на примере собственного рилса: что он выдал и что посоветовал, без инструкции как повторить."
+  }
+}

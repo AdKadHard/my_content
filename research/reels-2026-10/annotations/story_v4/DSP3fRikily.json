@@ -1,0 +1,14 @@
+{
+  "code": "DSP3fRikily",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Часть вторая манифеста «если бы я был новичком»: новички тонут в деплое и выбирают по ФОМА, а надо сначала лендинг."
+  }
+}

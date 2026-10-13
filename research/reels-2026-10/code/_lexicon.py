@@ -15,7 +15,11 @@ TOOLS = re.compile(r"\b(claude|clotco|клод|gpt|chatgpt|чатгпт|cursor|�
                    r"cardputer|hidock|plaud|obsidian|notion|telegram|телеграм|whisper|ollama|gemini|midjourney|supabase|directual|"
                    r"copilot|копайлот|codex|кодекс|raspberry|bambu|m5stack|elevenlabs|heygen|davinci|давинчи|figma|github|"
                    r"vercel|lovable|bolt|replit|deepseek|llama|mistral|openai|anthropic|perplexity|graphify|comfy|stable diffusion|"
-                   r"iphone|айфон|ipad|macbook|макбук|linux|windows|docker|python|питон|js|react|sql|api|mcp|мсп|json|промпт|промт)\b", re.I)
+                   r"iphone|айфон|ipad|macbook|макбук|linux|windows|docker|python|питон|js|react|sql|api|mcp|мсп|json|промпт|промт|"
+                   r"clotco|клот|клод код|opencl\w*|опенкло\w*|perplexity|перплексити|обсидиан|notion|нотион|directual|директуал|"
+                   r"hyperframes|гиперфреймс|виспер|кардпьютер|картпьютер|hidoc|хайдок|dji|osmo|распберри|бамбу|deepseek|дипсик|"
+                   r"чат ?гпт|гпт|джемини|soloscout|clink|opng|upng|reddit|реддит|телега|тгк|сиды|spotify|zapier|make\.com|"
+                   r"llm|ллм|нейронк\w+|нейросет\w+|агент\w*|бот\w*|сервер\w*|хостинг\w*|плат\w+|ардуино|arduino|esp32|пи\b)\b", re.I)
 ANALOGY = re.compile(r"\b(будто|словно|похож\w*|это как\b|как если бы|такой же как|типа|представь\w*|по сути это)\b", re.I)
 ABSTRACT = re.compile(r"(ость|ение|ание|ство|ция|зия|изм|тие|ота|изна)$")
 NUM = re.compile(r"\d+[\d.,]*")

@@ -1,0 +1,13 @@
+{
+  "code": "DOMEpk8EmMU",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "none",
+    "stakes": [
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Хронология собственного проекта (лето 2021 → 15к в месяц) с приглашением «ты тоже так можешь»; неправой стороны нет."
+  }
+}

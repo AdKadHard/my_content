@@ -1,0 +1,13 @@
+{
+  "code": "Da5IORagLlC",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "none",
+    "stakes": [
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "«10 вещей на столе» подаётся через «как? сейчас расскажу»: Gridfinity, Multiboard, промпт для 3D-модели во втором лице («кладёшь, фоткаешь, загружаешь»); спора нет, ставка — сэкономленные доллары."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "DQJRZcJEmUY",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "none",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Калибровочный пример «100 часов или 5 минут, я выбрал» — свой кейс с приглашением «ты тоже так можешь» и промптом для повтора."
+  }
+}

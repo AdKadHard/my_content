@@ -1,0 +1,13 @@
+{
+  "code": "DbvqWkWgHsX",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "essay",
+    "conflict": "none",
+    "stakes": [
+      "knowledge"
+    ],
+    "pov": "third",
+    "note": "Рассуждение об экономике суперзвёзд Розена с переносом на ИИ, героем выступает Розен и музыканты."
+  }
+}

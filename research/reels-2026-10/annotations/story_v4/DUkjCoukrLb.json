@@ -1,0 +1,13 @@
+{
+  "code": "DUkjCoukrLb",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "news_react",
+    "conflict": "none",
+    "stakes": [
+      "job"
+    ],
+    "pov": "third",
+    "note": "Новость про Rent-A-Human плюс оценка: ИИ нанимает людей, автоматизируемая работа под угрозой."
+  }
+}

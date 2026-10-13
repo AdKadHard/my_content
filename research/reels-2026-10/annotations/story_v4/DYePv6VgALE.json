@@ -1,0 +1,14 @@
+{
+  "code": "DYePv6VgALE",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "none",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "«Го создадим продукт для Reddit» — пошаговый путь для зрителя на реальном примере, неправой стороны нет."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "DR4iAiEkqTb",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "money",
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "«Если бы я был новичком, я бы действовал так» про лендинг: новички тонут в разработке ненужных продуктов; на кону деньги и время на лишнюю разработку."
+  }
+}

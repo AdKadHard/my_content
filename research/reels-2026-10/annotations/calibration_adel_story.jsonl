@@ -1,0 +1,16 @@
+{"code":"DTSpC0DEodJ","template":"review","conflict":"?","stakes":"fomo","hero":"tool+viewer","raw":"обзор, неожиданный инсайт, упустит новшество, ИИ девайс и его пользователь"}
+{"code":"DcdMfFegZil","template":"tutorial","conflict":"viewer_vs_world","stakes":"time","hero":"viewer","raw":"гайд, зритель против мира, время, зритель"}
+{"code":"DZM4h-hggka","template":"tutorial","conflict":"viewer_vs_world","stakes":"money|time","hero":"viewer","raw":"гайд, зритель против мира, деньги/время, зритель"}
+{"rule":"stakes","note":"fomo не бывает ставкой. Ставка — что зритель реально теряет: деньги, время, статус, работа. Значение fomo из кодбука убрать.","raw":"фомо не бывает ставкой"}
+{"code":"DOvEaGNEnA1","template":"review","conflict":"none","stakes":"money","hero":"viewer","raw":"обзор, ни с кем, деньги/возможность, зритель"}
+{"rule":"hero","note":"Герой никогда не автор. Автор — всегда позиция, голос. Герой — тот, кто действует в истории: зритель (который повторит) или инструмент. Рассказ про свой сервис — герой зритель, как и в «если бы я был новичком». Значение author из кодбука убрать.","raw":"герой тоже не автор, герой это кто-то кто делает что-то, автор это всегда позиция"}
+{"code":"DXWkRQzAGLf","template":"case_story","conflict":"viewer_vs_world","stakes":"money","hero":"viewer","raw":"кейс, против мира / мейнстрима, деньги/возможность, зритель"}
+{"code":"DRG9cFSkkUW","template":"tutorial","conflict":"author_vs_world","stakes":"time|money","hero":"author→viewer","raw":"гайд, все говорят X, а я проверил, время/деньги, автор, но спецично ориентированный так, чтобы люди увидели себя"}
+{"rule":"hero→pov","note":"Поле hero убрать: автор всегда позиция, инструмент хотеть не может, формулировка путает. Заменить на pov — чьими глазами рассказана история: own (своя реальная ситуация: «сколько я заработал»), viewer (встаёт на место зрителя или ведёт его: «если бы я был новичком», «повторяй за мной»), third (про третьих лиц: Розен, McKinsey).","raw":"давай формулировку герой уберем, мне кажется она только путает"}
+{"rule":"stakes","note":"Адель назвал ставку «знание» для эссе — добавить значение knowledge (зритель теряет понимание того, что происходит).","raw":"знание"}
+{"code":"DbvqWkWgHsX","template":"essay","conflict":"none","stakes":"knowledge","pov":"third","raw":"эссе, ни с кем, знание, чужая"}
+{"code":"DSrb1GAEjDz","template":"case_story","conflict":"none","stakes":"time|knowledge","pov":"viewer","raw":"кейс, ни с кем, время/знания, зрителя"}
+{"code":"DVK3ePuEgJo","template":"review","conflict":"none","stakes":"time|money","pov":"own","raw":"обзор, ни с кем, время/деньги, своя"}
+{"code":"DYWvUYLgDW2","template":"tutorial","conflict":"none","stakes":"time","pov":"viewer","raw":"гайд, ни с кем, время, зрителя"}
+{"code":"DeXDPstAfsG","template":"essay","conflict":"viewer_vs_world","stakes":"knowledge","pov":"viewer","raw":"эссе, зритель против мира, знание, зрителя"}
+{"code":"DQJRZcJEmUY","template":"case_story","conflict":"none","stakes":"time|money","pov":"viewer","raw":"кейс, ни с кем, время/деньги, зрителя"}

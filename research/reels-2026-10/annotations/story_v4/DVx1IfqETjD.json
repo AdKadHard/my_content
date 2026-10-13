@@ -1,0 +1,14 @@
+{
+  "code": "DVx1IfqETjD",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Три мифа, с которыми зрителю «пора распрощаться», и совет поставить LM Studio: зритель думает не так, автор исправляет."
+  }
+}

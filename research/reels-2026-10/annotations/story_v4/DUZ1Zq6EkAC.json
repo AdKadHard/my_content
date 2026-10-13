@@ -1,0 +1,14 @@
+{
+  "code": "DUZ1Zq6EkAC",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Рассказ, как OpenClaw смонтировал рилс за автора, внутри — манифест «вайбкодинг не для старта, начни с лоукода», обращённый к зрителю."
+  }
+}

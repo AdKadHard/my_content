@@ -1,0 +1,14 @@
+{
+  "code": "DS438p3kr6p",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "none",
+    "stakes": [
+      "time",
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "Девлог «день третий», но с явным приглашением «в конце расскажу, как тебе такое повторить» бесплатно и за пару часов."
+  }
+}

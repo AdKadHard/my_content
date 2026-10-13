@@ -1,0 +1,13 @@
+{
+  "code": "DXWkRQzAGLf",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "case_story",
+    "conflict": "viewer_vs_world",
+    "stakes": [
+      "money"
+    ],
+    "pov": "viewer",
+    "note": "«Купил Mac Mini? Сочувствую» — свой кейс с OpenClaw на железке за 40$ против зрителя, переплатившего, плюс «расскажу, как повторить»."
+  }
+}

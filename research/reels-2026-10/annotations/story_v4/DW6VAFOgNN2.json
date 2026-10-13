@@ -1,0 +1,13 @@
+{
+  "code": "DW6VAFOgNN2",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "news_react",
+    "conflict": "none",
+    "stakes": [
+      "knowledge"
+    ],
+    "pov": "third",
+    "note": "Чужая новость (Карпаты продвигает ИИ-вики) плюс оценка автора, рассказ о третьем лице."
+  }
+}

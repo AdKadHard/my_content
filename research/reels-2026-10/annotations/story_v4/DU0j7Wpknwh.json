@@ -1,0 +1,13 @@
+{
+  "code": "DU0j7Wpknwh",
+  "labeler": "claude-v4",
+  "story": {
+    "template": "tutorial",
+    "conflict": "none",
+    "stakes": [
+      "time"
+    ],
+    "pov": "viewer",
+    "note": "«Повторяй за мной»: пошаговый деплой OpenClaw на сервер за минуту, никакой неправой стороны."
+  }
+}
